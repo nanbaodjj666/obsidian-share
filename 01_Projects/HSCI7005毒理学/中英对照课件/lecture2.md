@@ -1,0 +1,852 @@
+---
+title: "HSCI7005 · Lecture 2. Risk assessment and toxic agents"
+type: 课件原文对照笔记
+course: HSCI7005
+source: "Lecture 2. Risk assessment and toxic agents.pdf"
+date: 2026-09-20
+tags:
+  - 科目/毒理学基础
+  - HSCI7005
+aliases:
+  - Lecture 2. Risk assessment and toxic agents
+---
+
+# HSCI7005 · Lecture 2. Risk assessment and toxic agents
+
+> **主体内容**：课件原文，逐页以原版截图呈现，共 74 页（未转文字）。
+> **插入内容**：与《[本科毒理学笔记](01_Projects/HSCI7005毒理学/本科毒理学笔记.md)》对应处，紧跟对应页插入笔记原文（中文），逐字照搬，未改写。
+> **截图位置**：`50_Assets/lecture图片/`；点击图片可放大查看原文。
+> **反向链接**：每题对应的 Slide 下方有 `📝 **相关习题**` 行，可点回 [quiz2](01_Projects/HSCI7005毒理学/quiz2.md) 的对应题目。
+> **原课件**：Lecture 2. Risk assessment and toxic agents.pdf
+> ⚠️ 医学内容请以教材、指南与任课教师讲解为准复核，不可用于临床决策。
+
+---
+
+## 本讲导读
+
+> 本讲共 **74 页**课件截图；与《[本科毒理学笔记](01_Projects/HSCI7005毒理学/本科毒理学笔记.md)》有 **12 处**对照；本讲 [quiz2](01_Projects/HSCI7005毒理学/quiz2.md) 共 **7 题**。
+
+| 分区 | Slide 范围 |
+| --- | --- |
+| 课程信息 / Course information | 1–2 |
+| Lecture 2-1. Risk assessment | 3–38 |
+| Lecture 2-2. Toxic agents | 39–74 |
+
+**本科笔记对照位置**
+
+- [Slide 4](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 风险评估
+- [Slide 9](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 第九章 管理毒理学
+- [Slide 11](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 一、危害识别
+- [Slide 16](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 二、剂量-反应关系评定
+- [Slide 17](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 第五章 一般毒性作用
+- [Slide 18](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 二、（定义）短期、亚慢性和慢性毒作用
+- [Slide 20](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 短期、亚慢性和慢性毒作用
+- [Slide 21](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 化学致癌物的毒理学检测方法
+- [Slide 25](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 三、暴露评估
+- [Slide 27](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 生物学标志biomarker
+- [Slide 29](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 四、风险特征分析
+- [Slide 36](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 安全性毒理学评价
+
+**本讲习题 → 知识点**（点题号翻习题，点 Slide 翻课件页）
+
+- [试题1](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 11](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 29](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 13](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 14](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
+- [试题2](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 17](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 16](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 18](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 19](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
+- [试题3](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 30](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 31](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 32](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
+- [试题4](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 62](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 60](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 61](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 63](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
+- [试题5](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 70](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 71](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 72](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
+- [试题6](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 46](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 47](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
+- [试题7](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 50](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 51](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 48](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 49](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 52](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
+
+---
+
+## 课程信息 / Course information
+
+### Slide 1
+
+![HSCI7005-L2-s01.jpg](50_Assets/lecture图片/HSCI7005-L2-s01.jpg)
+
+---
+
+### Slide 2
+
+![HSCI7005-L2-s02.jpg](50_Assets/lecture图片/HSCI7005-L2-s02.jpg)
+
+---
+
+## Lecture 2-1. Risk assessment
+
+### Slide 3
+
+![HSCI7005-L2-s03.jpg](50_Assets/lecture图片/HSCI7005-L2-s03.jpg)
+
+---
+
+### Slide 4
+
+![HSCI7005-L2-s04.jpg](50_Assets/lecture图片/HSCI7005-L2-s04.jpg)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **风险评估**
+>
+> 风险度/危险度：个体或特定群体中某种剂量或某一浓度的化学物质所致的有害作用出现的概率
+>
+> 风险大小：用在一定期间内可能受到有害因子影响的个体数与暴露于有害因子的个体总数之预期比例来表示
+>
+> 风险评估：对有害因子的不良影响发生的概率进行评估的过程，分为健康风险评估和环境风险评估
+>
+> **健康风险评估**
+>
+> 定义：
+>
+> 收集大量个人健康信息，分析其生活方式、环境、遗传等危险因素与健康状态之间的量化关系，预测个人在一定时间内发生某特定畸变或因该疾病致死的可能性。即对个人的健康状况及未来患病或死亡危险性的量化评估。
+>
+> 目的：
+> - 在于估计特定事件发生的可能性，帮助个体综合认识健康风险，鼓励和帮助人们纠正不健康的行为和习惯，而不在于做出明确的诊断
+> - 并据此按人群的需求提供有针对性的控制与干预，以帮助政府、企业、保险公司和个人，用最少的成本达到最大的健康效果，并评价这些措施的效果
+>
+> 四步骤：危害识别、剂量-反应关系评定、暴露评价、风险特征分析
+
+---
+
+### Slide 5
+
+![HSCI7005-L2-s05.jpg](50_Assets/lecture图片/HSCI7005-L2-s05.jpg)
+
+---
+
+### Slide 6
+
+![HSCI7005-L2-s06.jpg](50_Assets/lecture图片/HSCI7005-L2-s06.jpg)
+
+---
+
+### Slide 7
+
+![HSCI7005-L2-s07.jpg](50_Assets/lecture图片/HSCI7005-L2-s07.jpg)
+
+---
+
+### Slide 8
+
+![HSCI7005-L2-s08.jpg](50_Assets/lecture图片/HSCI7005-L2-s08.jpg)
+
+---
+
+### Slide 9
+
+![HSCI7005-L2-s09.jpg](50_Assets/lecture图片/HSCI7005-L2-s09.jpg)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **第九章 管理毒理学**
+>
+> **概述**
+>
+> **毒理学工作者在化学品管理中的作用**
+> - 对相关法律法规的制定 提供技术支持和技术咨询
+> - 对化学物分类、分级、标签管理 提供技术支持和技术咨询
+> - 在现有化学物质中，提出基于健康和环境原因需优先管理的化学品
+> - 在优先管理化学品的卫生标准和环境标准的制订中，通过体内外试验、人体观察、流行病学调查，阐明其对人体健康的影响，确定剂量-反应关系，在制订安全限值中起关键作用
+> - 对新化学品根据有关法规、规范进行安全性毒理学评价，并参与其专业技术审核
+> - 对重要的环境污染物和化学物进行健康风险评估
+> - 参与化学事故的应急救援
+>
+> **管理毒理学的概念的范围**
+>
+> 概念：将毒理学的原理、技术和研究成果应用于外源化学物的管理，以防止外源化学物对人体健康和环境产生潜在危害的应用学科
+>
+> 范围：①收集、处理和评价流行病学、实验毒理学数据 ②利用毒理学对外源化学物毒作用规律的研究成果，对保护健康和环境做决策 ③支持发展标准测试方案和新测试方法，促进决策程序的科学化
+>
+> **三、管理对毒理学的影响**
+>
+> （一）通过颁布安全性毒理学评价相关的检测指标或指南，赋予相关管理部门法定权威性，不仅提高了执行力，而且促进了管理毒理学的发展
+>
+> （二）动物保护原则：对实验动物必须爱护，不得戏弄或虐待
+>
+> 3R原则：替代replacement、减少reduction、优化refinement
+> - 涉及人体试验应遵循《赫尔辛基宣言》、《人体生物医学研究国际伦理指南》、中国《药物临床试验质量管理规范》的伦理原则，建立伦理审查委员会和知情同意原则尤为重要
+
+---
+
+### Slide 10
+
+![HSCI7005-L2-s10.jpg](50_Assets/lecture图片/HSCI7005-L2-s10.jpg)
+
+---
+
+### Slide 11
+
+![HSCI7005-L2-s11.jpg](50_Assets/lecture图片/HSCI7005-L2-s11.jpg)
+
+> 📝 **相关习题**：[试题1](01_Projects/HSCI7005毒理学/quiz2.md)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **一、危害识别**
+>
+> 指识别可能产生有害作用的因素的种类和性质
+>
+> 目的：
+> - 基于已知的资料和作用模式来评价对人有害作用的证据充分性
+> - 确定人体暴露化学物的潜在有害作用及其产生的可能性
+> - 产生这种有害作用的确定性和不确定性
+>
+> 主要方法：证据权重法
+
+---
+
+### Slide 12
+
+![HSCI7005-L2-s12.jpg](50_Assets/lecture图片/HSCI7005-L2-s12.jpg)
+
+---
+
+### Slide 13
+
+![HSCI7005-L2-s13.jpg](50_Assets/lecture图片/HSCI7005-L2-s13.jpg)
+
+> ↳ 延伸参考：[试题1](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 14
+
+![HSCI7005-L2-s14.jpg](50_Assets/lecture图片/HSCI7005-L2-s14.jpg)
+
+> ↳ 延伸参考：[试题1](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 15
+
+![HSCI7005-L2-s15.jpg](50_Assets/lecture图片/HSCI7005-L2-s15.jpg)
+
+---
+
+### Slide 16
+
+![HSCI7005-L2-s16.jpg](50_Assets/lecture图片/HSCI7005-L2-s16.jpg)
+
+> ↳ 延伸参考：[试题2](01_Projects/HSCI7005毒理学/quiz2.md)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **二、剂量-反应关系评定**
+>
+> 确定待测物暴露剂量与群体健康效应发生率之间的关系
+>
+> 剂量-反应关系评定是定性/定量评估的综合过程，解决的问题是阐明化学物种类和剂量与效应之间的关系。
+>
+> 有阈值化学毒物的评定，要推测RfD/RfC
+>
+> 无阈值化学毒物的评定，需查询斜率因子，作为非致癌性或致癌性风险计算的基础
+> - 给予剂量：机体经消化道、呼吸道、皮肤等实际摄入、吸入或皮肤接触的化学毒物的量
+> - 应用剂量：直接与机体的吸收屏障接触的可供吸收的量
+> - 吸收剂量：被吸收入体内的量，又称为内剂量
+> - 送达剂量：吸收剂量中能到达所关注的器官组织的部分
+> - 生物有效剂量：送达剂量中能到达有害效应作用部位的部分，又称靶剂量
+> - 有阈化学物：一般为非遗传毒性物质，达到一定剂量才引起健康损害，在阈值以下不会发生健康效应
+> - 无阈化学物：一般为遗传毒性毒物，在任何暴露水平下都具有理论上的健康效应
+> - RfD：日平均接触剂量的估计值，人群在终生接触该剂量水平下，预期一生中发生非致癌或非致突变效应的危险度可降低至不能检出的程度。RfD=NOAEL或LOAEL/安全系数
+>
+> LOAEL：观察到有害作用的最低水平   NOAEL：未观察到有害作用的水平
+>
+> 9.基准剂量BMD：一个可使化学毒物有害效应的反应率稍有升高（常选5%）的剂量的95%可信限的下限值
+
+---
+
+### Slide 17
+
+![HSCI7005-L2-s17.jpg](50_Assets/lecture图片/HSCI7005-L2-s17.jpg)
+
+> 📝 **相关习题**：[试题2](01_Projects/HSCI7005毒理学/quiz2.md)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **第五章 一般毒性作用**
+>
+> **急性毒性作用及其评价**
+>
+> LD50：急性毒性最重要的评价参数，可依据其大小对外源化学物的毒性分级
+>
+> **急性毒性及其试验**
+>
+> 急性毒性acute toxicity：人或实验动物一次或1天内多次某外源化学物暴露引起的毒效应
+>
+> “急性”指的是接触时间短，而非效应快速。
+>
+> 经口或注射途径染毒时，“一次”指瞬间给予动物染毒
+>
+> 经呼吸道吸入或皮肤染毒时，“一次”指动物在特定时间内持续外源化学物暴露的过程
+>
+> “一天内多次”指外源化学物毒性很低，需1天内多次染毒才能充分了解其毒性，一般不超3次，每次间隔6-8h
+>
+> 急性毒性试验：评价外源化学物急性毒效应的试验，也是观察外源化学物对机体毒效应的第一步。
+>
+> 目的：
+> - 评价受试物的急性毒性：可得到LD50/LC50，进行急性毒性分级和评价
+> - 观察中毒表现，初步评价外源化学物对机体的毒效应特征、靶器官、剂量-反应关系，估计其对人体损害的危险性
+> - 为深入研究亚慢性、慢性毒性及毒作用机制提供科学依据
+>
+> **急性毒性试验方法**
+>
+> ![毒理学笔记-图10.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图10.png)
+>
+> **三、急性毒性的分级和评价**
+>
+> ![毒理学笔记-图11.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图11.png)
+
+---
+
+### Slide 18
+
+![HSCI7005-L2-s18.jpg](50_Assets/lecture图片/HSCI7005-L2-s18.jpg)
+
+> ↳ 延伸参考：[试题2](01_Projects/HSCI7005毒理学/quiz2.md)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **二、（定义）短期、亚慢性和慢性毒作用**
+>
+> 短期重复剂量毒性：实验动物或人连续暴露外源化学物14~30天出现的中毒效应
+>
+> 亚慢性毒性：实验动物或人连续较长时间(约1/10生命周期)暴露外源化学物出现的毒效应
+>
+> 慢性毒性：实验动物或人长期或终生暴露外源化学物出现的毒效应
+>
+> **三、（目的）短期、亚慢性和慢性毒性试验**
+> - 了解长期暴露受试物的毒效应谱、毒效应特点、靶器官和机制
+> - 了解长期暴露受试物毒效应的可能性
+> - 探讨重复暴露受试物毒效应的剂量-反应关系，初步确定NOAEL和LOAEL，为制定人类暴露安全限量提供建议值
+> - 亚慢性毒性试验可以为慢性毒性试验提供合适的观察参数
+> - 观察不同动物对受试物的毒效应差异，可为研究结果外推到人提供科学依据
+>
+> **四、短期、亚慢性毒性试验设计**
+>
+> ![毒理学笔记-图12.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图12.png)
+>
+> **五、慢性毒性试验设计**
+>
+> ![毒理学笔记-图13.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图13.png)
+>
+> 亚慢性毒性试验和慢性毒性试验的异同
+>
+> 同：试验动物选择，染毒途径，剂量选择，分组，观察参数
+>
+> 异：染毒期限
+>
+> **六、对亚慢性/慢性毒性试验结果的评价**
+>
+> 1.明确化学物的毒效应
+>
+> 2.确定毒效应的敏感参数
+>
+> 3.确定亚慢性/慢性毒性的NOAEL、LOAEL，评价受试物的亚慢性/慢性毒性
+>
+> 当试验组和对照组的实验结果间的差异有统计学意义时，应通过以下指标来进一步判断是否具有生物学意义：
+>
+> 剂量反应关系、时效关系、组间差异、重现性、相关指标的变化、差异的有效性、性别差异、历史对照的作用
+
+---
+
+### Slide 19
+
+![HSCI7005-L2-s19.jpg](50_Assets/lecture图片/HSCI7005-L2-s19.jpg)
+
+> ↳ 延伸参考：[试题2](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 20
+
+![HSCI7005-L2-s20.jpg](50_Assets/lecture图片/HSCI7005-L2-s20.jpg)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **短期、亚慢性和慢性毒作用**
+>
+> **一、蓄积作用**
+>
+> 蓄积作用是发生慢性毒作用的基础
+>
+> 定义：外源化学物低剂量多次进入靶器官或体内逐渐增加并贮存的现象
+> - 物质蓄积：能用化学方法测得机体内存在该化学物原形或代谢产物，如铅汞锰
+> - 损伤蓄积/效应蓄积/功能蓄积：体内不能测出其原形或代谢产物，却发生慢性毒效应
+> - 蓄积系数K=ED50(n)/ED50(1)     高度蓄积1明显蓄积 3中等蓄积 5轻度蓄积
+>
+> ED50(n)：多次染毒使半数动物出现效应的剂量，试验常以死亡为观察的效应
+>
+> ED50(1)：一次染毒使半数动物出现效应的剂量，试验常以死亡为观察的效应
+
+---
+
+### Slide 21
+
+![HSCI7005-L2-s21.jpg](50_Assets/lecture图片/HSCI7005-L2-s21.jpg)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **化学致癌物的毒理学检测方法**
+>
+> **定量构效关系分析**
+>
+> 与已知致突变物比较，可以快速筛选同系物和相似结构的化学物
+>
+> **遗传毒性试验（致突变试验）**
+>
+> 有一定的假阳性（遗传毒性非致癌物）、假阴性（非遗传毒性致癌物）
+>
+> **细胞恶性转化试验**
+>
+> 观察终点：细胞恶性变→细胞恶性变不代表一定形成肿瘤→阳性结果仅能提示受试物有致癌的潜能
+>
+> 方法：用受试物处理细胞→将处理后的细胞接种到裸鼠皮下，形成肉眼可见的肿瘤
+>
+> 优点：1.可检出非遗传毒性致癌物，弥补遗传毒性试验的不足
+>
+> 2.相较于哺乳动物体内致癌试验，其操作便捷，更为经济
+>
+> 缺点：体外试验无法完全复制体内的代谢途径，对于间接致癌物，需要添加辅助的代谢酶，如S9
+>
+> **哺乳动物致癌试验**
+>
+> 1.哺乳动物中期/短期致癌试验（6-9月）
+>
+> 观察终点：癌前病变（如腺瘤、瘤性增生结节）
+>
+> 常用：①小鼠肺肿瘤诱发试验（引发剂：乌拉坦；促癌剂：丁基羟甲苯BHT）②小鼠皮肤肿瘤诱发试验③大鼠肝转化灶诱发试验④雌性SD大鼠乳腺癌诱发试验
+>
+> 缺点：由于试验期较短，且只关注靶器官，未检查其他器官和系统，所以阴性结果需慎重，不能排除受试物的致癌性。（因为可能该致癌物引起了靶器官之外的器官/系统的癌变）
+> - 哺乳动物长期致癌试验（1.5-2年）
+>
+> **人群流行病学调查（20年）**
+>
+> 是确定人类致癌物的唯一手段
+>
+> 通常先通过动物致癌试验确定动物致癌物，或先通过描述流行病学调查或临床观察发现可疑人类致癌物，再进行分析性流行病学研究（病例对照研究、队列研究）
+>
+> 根据观察终点不同可分为：肿瘤流行病学调查、生物学标志流行病学调查
+> - 肿瘤流行病学调查：以肿瘤发病率或病死率为观察终点，
+>
+> 如果调查结果为阳性，且能够重复并有剂量-反应关系，则可确认为人类致癌物
+>
+> 如果是阴性，不能完全确定为非致癌物，因为可能是暴露时间短或水平低所致
+>
+> ![毒理学笔记-图25.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图25.png)
+
+---
+
+### Slide 22
+
+![HSCI7005-L2-s22.jpg](50_Assets/lecture图片/HSCI7005-L2-s22.jpg)
+
+---
+
+### Slide 23
+
+![HSCI7005-L2-s23.jpg](50_Assets/lecture图片/HSCI7005-L2-s23.jpg)
+
+---
+
+### Slide 24
+
+![HSCI7005-L2-s24.jpg](50_Assets/lecture图片/HSCI7005-L2-s24.jpg)
+
+---
+
+### Slide 25
+
+![HSCI7005-L2-s25.jpg](50_Assets/lecture图片/HSCI7005-L2-s25.jpg)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **三、暴露评估**
+>
+> 确定人群接触总量，描述接触特性，包括暴露来源、途径、路线及其存在的不确定性
+>
+> 暴露估计的内容：①界定暴露人群②大气扩散模式及多介质传输模式 ③暴露测量 ④选择暴露环境 ⑤选择暴露参数 ⑥总暴露剂量的估计
+
+---
+
+### Slide 26
+
+![HSCI7005-L2-s26.jpg](50_Assets/lecture图片/HSCI7005-L2-s26.jpg)
+
+---
+
+### Slide 27
+
+![HSCI7005-L2-s27.jpg](50_Assets/lecture图片/HSCI7005-L2-s27.jpg)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **生物学标志biomarker**
+> - 暴露生物学标志biomarker of exposure：分为体内剂量标志和生物效应剂量标志，用于定量测量人群个体的暴露水平。反映了该化学物在机体的暴露水平
+>
+> 如铅作业工人的血、尿铅含量可反映暴露水平，B(a)P与DNA结合形成加合物提示毒效应开始，加合物含量决定毒效应强度
+> - 效应生物学标志b o effect ：包括反映早期生物效应、结构和或功能改变、疾病。反映了机体对化学物暴露厚的生理生化反应
+>
+> 该标志可提供人体暴露与环境引起疾病的联系，有助于确定剂量-反应关系和将高水平暴露的动物实验资料外推到人群低水平暴露的危险度。
+>
+> 早期生物效应：DNA损伤
+>
+> 结构和或功能改变效应：尿ALA、血液红细胞游离原卟啉FEP、锌原卟啉ZPP
+>
+> 3、易感性生物学标志b o susceptibility ：用于鉴定易感个体和易感人群
+
+---
+
+### Slide 28
+
+![HSCI7005-L2-s28.jpg](50_Assets/lecture图片/HSCI7005-L2-s28.jpg)
+
+---
+
+### Slide 29
+
+![HSCI7005-L2-s29.jpg](50_Assets/lecture图片/HSCI7005-L2-s29.jpg)
+
+> 📝 **相关习题**：[试题1](01_Projects/HSCI7005毒理学/quiz2.md)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **四、风险特征分析**
+>
+> 根据前三步骤所得的结果，分析待测物在接触人群中引起健康效应的发生率
+>
+> 风险特征分析的内容：①致癌风险 ②慢性非致癌风险
+>
+> 健康效应分类：①致癌性②致生殖细胞突变③发育毒性（致畸性）④器官/细胞病理学损伤
+
+---
+
+### Slide 30
+
+![HSCI7005-L2-s30.jpg](50_Assets/lecture图片/HSCI7005-L2-s30.jpg)
+
+> 📝 **相关习题**：[试题3](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 31
+
+![HSCI7005-L2-s31.jpg](50_Assets/lecture图片/HSCI7005-L2-s31.jpg)
+
+> ↳ 延伸参考：[试题3](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 32
+
+![HSCI7005-L2-s32.jpg](50_Assets/lecture图片/HSCI7005-L2-s32.jpg)
+
+> ↳ 延伸参考：[试题3](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 33
+
+![HSCI7005-L2-s33.jpg](50_Assets/lecture图片/HSCI7005-L2-s33.jpg)
+
+---
+
+### Slide 34
+
+![HSCI7005-L2-s34.jpg](50_Assets/lecture图片/HSCI7005-L2-s34.jpg)
+
+---
+
+### Slide 35
+
+![HSCI7005-L2-s35.jpg](50_Assets/lecture图片/HSCI7005-L2-s35.jpg)
+
+---
+
+### Slide 36
+
+![HSCI7005-L2-s36.jpg](50_Assets/lecture图片/HSCI7005-L2-s36.jpg)
+
+> [!note] 本科毒理学笔记 · 对应原文
+>
+> **安全性毒理学评价**
+>
+> **一、安全性毒理学评价：是应用规定的毒理学程序和方法，经动物试验和暴露人群观察，检测评价某种外源化学物的毒性及潜在健康危害，对该物质能否投放市场做出取舍的决定，或提出人类的健康安全接触条件，即对人类使用这类物质的安全性做出评价的过程**
+>
+> 各类化学品或产品的行政管理单位
+>
+> 国家FDA：食品、保健食品、化妆品、医疗器械
+>
+> 农业部：农药、微生物肥料
+>
+> 卫生部：水及涉水产品、消毒剂
+>
+> 环境保护部：化学品
+>
+> **二、四阶段试验**
+>
+> ![毒理学笔记-图31.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图31.png)
+>
+> 安全系数SF（不确定系数UF）一般取100
+>
+> 安全限值=NOAEL/安全系数
+
+---
+
+### Slide 37
+
+![HSCI7005-L2-s37.jpg](50_Assets/lecture图片/HSCI7005-L2-s37.jpg)
+
+---
+
+### Slide 38
+
+![HSCI7005-L2-s38.jpg](50_Assets/lecture图片/HSCI7005-L2-s38.jpg)
+
+---
+
+## Lecture 2-2. Toxic agents
+
+### Slide 39
+
+![HSCI7005-L2-s39.jpg](50_Assets/lecture图片/HSCI7005-L2-s39.jpg)
+
+---
+
+### Slide 40
+
+![HSCI7005-L2-s40.jpg](50_Assets/lecture图片/HSCI7005-L2-s40.jpg)
+
+---
+
+### Slide 41
+
+![HSCI7005-L2-s41.jpg](50_Assets/lecture图片/HSCI7005-L2-s41.jpg)
+
+---
+
+### Slide 42
+
+![HSCI7005-L2-s42.jpg](50_Assets/lecture图片/HSCI7005-L2-s42.jpg)
+
+---
+
+### Slide 43
+
+![HSCI7005-L2-s43.jpg](50_Assets/lecture图片/HSCI7005-L2-s43.jpg)
+
+---
+
+### Slide 44
+
+![HSCI7005-L2-s44.jpg](50_Assets/lecture图片/HSCI7005-L2-s44.jpg)
+
+---
+
+### Slide 45
+
+![HSCI7005-L2-s45.jpg](50_Assets/lecture图片/HSCI7005-L2-s45.jpg)
+
+---
+
+### Slide 46
+
+![HSCI7005-L2-s46.jpg](50_Assets/lecture图片/HSCI7005-L2-s46.jpg)
+
+> 📝 **相关习题**：[试题6](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 47
+
+![HSCI7005-L2-s47.jpg](50_Assets/lecture图片/HSCI7005-L2-s47.jpg)
+
+> ↳ 延伸参考：[试题6](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 48
+
+![HSCI7005-L2-s48.jpg](50_Assets/lecture图片/HSCI7005-L2-s48.jpg)
+
+> ↳ 延伸参考：[试题7](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 49
+
+![HSCI7005-L2-s49.jpg](50_Assets/lecture图片/HSCI7005-L2-s49.jpg)
+
+> ↳ 延伸参考：[试题7](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 50
+
+![HSCI7005-L2-s50.jpg](50_Assets/lecture图片/HSCI7005-L2-s50.jpg)
+
+> 📝 **相关习题**：[试题7](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 51
+
+![HSCI7005-L2-s51.jpg](50_Assets/lecture图片/HSCI7005-L2-s51.jpg)
+
+> 📝 **相关习题**：[试题7](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 52
+
+![HSCI7005-L2-s52.jpg](50_Assets/lecture图片/HSCI7005-L2-s52.jpg)
+
+> ↳ 延伸参考：[试题7](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 53
+
+![HSCI7005-L2-s53.jpg](50_Assets/lecture图片/HSCI7005-L2-s53.jpg)
+
+---
+
+### Slide 54
+
+![HSCI7005-L2-s54.jpg](50_Assets/lecture图片/HSCI7005-L2-s54.jpg)
+
+---
+
+### Slide 55
+
+![HSCI7005-L2-s55.jpg](50_Assets/lecture图片/HSCI7005-L2-s55.jpg)
+
+---
+
+### Slide 56
+
+![HSCI7005-L2-s56.jpg](50_Assets/lecture图片/HSCI7005-L2-s56.jpg)
+
+---
+
+### Slide 57
+
+![HSCI7005-L2-s57.jpg](50_Assets/lecture图片/HSCI7005-L2-s57.jpg)
+
+---
+
+### Slide 58
+
+![HSCI7005-L2-s58.jpg](50_Assets/lecture图片/HSCI7005-L2-s58.jpg)
+
+---
+
+### Slide 59
+
+![HSCI7005-L2-s59.jpg](50_Assets/lecture图片/HSCI7005-L2-s59.jpg)
+
+---
+
+### Slide 60
+
+![HSCI7005-L2-s60.jpg](50_Assets/lecture图片/HSCI7005-L2-s60.jpg)
+
+> ↳ 延伸参考：[试题4](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 61
+
+![HSCI7005-L2-s61.jpg](50_Assets/lecture图片/HSCI7005-L2-s61.jpg)
+
+> ↳ 延伸参考：[试题4](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 62
+
+![HSCI7005-L2-s62.jpg](50_Assets/lecture图片/HSCI7005-L2-s62.jpg)
+
+> 📝 **相关习题**：[试题4](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 63
+
+![HSCI7005-L2-s63.jpg](50_Assets/lecture图片/HSCI7005-L2-s63.jpg)
+
+> ↳ 延伸参考：[试题4](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 64
+
+![HSCI7005-L2-s64.jpg](50_Assets/lecture图片/HSCI7005-L2-s64.jpg)
+
+---
+
+### Slide 65
+
+![HSCI7005-L2-s65.jpg](50_Assets/lecture图片/HSCI7005-L2-s65.jpg)
+
+---
+
+### Slide 66
+
+![HSCI7005-L2-s66.jpg](50_Assets/lecture图片/HSCI7005-L2-s66.jpg)
+
+---
+
+### Slide 67
+
+![HSCI7005-L2-s67.jpg](50_Assets/lecture图片/HSCI7005-L2-s67.jpg)
+
+---
+
+### Slide 68
+
+![HSCI7005-L2-s68.jpg](50_Assets/lecture图片/HSCI7005-L2-s68.jpg)
+
+---
+
+### Slide 69
+
+![HSCI7005-L2-s69.jpg](50_Assets/lecture图片/HSCI7005-L2-s69.jpg)
+
+---
+
+### Slide 70
+
+![HSCI7005-L2-s70.jpg](50_Assets/lecture图片/HSCI7005-L2-s70.jpg)
+
+> 📝 **相关习题**：[试题5](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 71
+
+![HSCI7005-L2-s71.jpg](50_Assets/lecture图片/HSCI7005-L2-s71.jpg)
+
+> ↳ 延伸参考：[试题5](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 72
+
+![HSCI7005-L2-s72.jpg](50_Assets/lecture图片/HSCI7005-L2-s72.jpg)
+
+> ↳ 延伸参考：[试题5](01_Projects/HSCI7005毒理学/quiz2.md)
+
+---
+
+### Slide 73
+
+![HSCI7005-L2-s73.jpg](50_Assets/lecture图片/HSCI7005-L2-s73.jpg)
+
+---
+
+### Slide 74
+
+![HSCI7005-L2-s74.jpg](50_Assets/lecture图片/HSCI7005-L2-s74.jpg)
+
+---
