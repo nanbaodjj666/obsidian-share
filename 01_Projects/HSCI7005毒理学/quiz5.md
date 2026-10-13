@@ -24,7 +24,7 @@ aliases:
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
 > 相关：Lecture 5. Biotransformation and Developmental toxicity.pdf ·
-> HSCI7005_Lecture5_生物转化与发育毒性_中文翻译 · 课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md)
+> lecture5-生物转化与发育毒性 · 课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md)
 
 ---
 

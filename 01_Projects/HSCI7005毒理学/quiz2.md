@@ -23,7 +23,7 @@ aliases:
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
 > 相关：Lecture 2. Risk assessment and toxic agents.pdf ·
-> HSCI7005_Lecture2_风险评估与毒物_中文翻译 · 课程索引 · [quiz1](quiz1.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
+> lecture2-风险评估与毒物 · 课程索引 · [quiz1](quiz1.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 
 ---
 

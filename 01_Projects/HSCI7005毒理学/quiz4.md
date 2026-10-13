@@ -23,7 +23,7 @@ aliases:
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
 > 相关：Lecture 4. Toxicokinetics (pharmacokinetics).pdf ·
-> HSCI7005_Lecture4_毒代动力学_中文翻译 · 课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz5](quiz5.md)
+> lecture4-毒代动力学 · 课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz5](quiz5.md)
 
 ---
 
