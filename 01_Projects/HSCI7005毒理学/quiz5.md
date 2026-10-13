@@ -18,13 +18,13 @@ aliases:
 
 > 来源：手机端 **Quiz-Lecture 5** 界面高清截图 7 张。本页题干与选项已按高清截图**重新校对**。
 > ⚠️ 旧版（141×1920 低分辨率识别稿）**试题4 完全识别错误** —— 原稿误作「利福平 Rifampicin 药物相互作用题」，实为 **Paxlovid（尼马特雷韦 Nirmatrelvir + 利托那韦 Ritonavir）案例分析题**，已改正。
-> 🆕 **每题末附「课件定位」** —— 双链直达中英对照课件 [Lecture 5](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) 中**对应知识点所在的 Slide**，即该文件里的 `### Slide N` 小节，点击可跳到那一页原版截图。
+> 🆕 **每题末附「课件定位」** —— 双链直达中英对照课件 [Lecture 5](中英对照课件/lecture5.md) 中**对应知识点所在的 Slide**，即该文件里的 `### Slide N` 小节，点击可跳到那一页原版截图。
 > **正确选项以粗体标出**，答案依据 Lecture 5 英文原版课件（`原版课件/Lecture 5. Biotransformation and Developmental toxicity.pdf`）逐题核对。
 > 截图右侧实心圆点（◉）为学生**已勾选**的选项，供对照自评。
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
 > 相关：Lecture 5. Biotransformation and Developmental toxicity.pdf ·
-> HSCI7005_Lecture5_生物转化与发育毒性_中文翻译 · 课程索引 · [quiz1](01_Projects/HSCI7005毒理学/quiz1.md) · [quiz2](01_Projects/HSCI7005毒理学/quiz2.md) · [quiz3](01_Projects/HSCI7005毒理学/quiz3.md) · [quiz4](01_Projects/HSCI7005毒理学/quiz4.md)
+> HSCI7005_Lecture5_生物转化与发育毒性_中文翻译 · 课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md)
 
 ---
 
@@ -33,13 +33,13 @@ aliases:
 <details>
 <summary>展开 7 张高清原始截图</summary>
 
-![HSCI7005-Quiz-Lecture5-原图1.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图1.jpg)
-![HSCI7005-Quiz-Lecture5-原图2.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图2.jpg)
-![HSCI7005-Quiz-Lecture5-原图3.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图3.jpg)
-![HSCI7005-Quiz-Lecture5-原图4.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图4.jpg)
-![HSCI7005-Quiz-Lecture5-原图5.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图5.jpg)
-![HSCI7005-Quiz-Lecture5-原图6.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图6.jpg)
-![HSCI7005-Quiz-Lecture5-原图7.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图7.jpg)
+![HSCI7005-Quiz-Lecture5-原图1.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图1.jpg)
+![HSCI7005-Quiz-Lecture5-原图2.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图2.jpg)
+![HSCI7005-Quiz-Lecture5-原图3.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图3.jpg)
+![HSCI7005-Quiz-Lecture5-原图4.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图4.jpg)
+![HSCI7005-Quiz-Lecture5-原图5.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图5.jpg)
+![HSCI7005-Quiz-Lecture5-原图6.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图6.jpg)
+![HSCI7005-Quiz-Lecture5-原图7.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture5-原图7.jpg)
 
 </details>
 
@@ -59,8 +59,8 @@ Which of the following is NOT a correct description of biotransformation (metabo
 > **✅ 答案 a** · 依据 **L5 p6**：*"Biotransformation … **Goal: change the chemical structure to facilitate excretion**"* —— 生物转化的目的是**改变化学结构以促进排泄（excretion）**，而非促进分布（distribution）。a 项把 excretion 写成了 distribution，故为「不正确描述」。
 > b 依据 p6：*"**Main organ involved: Liver**"*；c 依据 p12（Phase I 主要酶含 **CYP450**）与 p13（CYP 约占全部Ⅰ相代谢反应的 **80%**）；d 依据 p7：*"Potentially toxic xenobiotic → Detoxication → Inactive metabolite"* 或 *"Relatively harmless xenobiotic → **Metabolic activation** → Active / Toxic metabolite"*（无害物经代谢活化可变成有毒代谢物）。
 >
-> 🔗 **课件定位**：[L5 · Slide 6 · Biotransformation — 定义与目的（利于排泄）](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
-> ↳ 前置：[Slide 3 · Biotransformation — 毒物在体内的命运](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 7 · Biotransformation — Detoxication vs Metabolic activation](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 8 · General principles of biotransformation](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
+> 🔗 **课件定位**：[L5 · Slide 6 · Biotransformation — 定义与目的（利于排泄）](中英对照课件/lecture5.md)
+> ↳ 前置：[Slide 3 · Biotransformation — 毒物在体内的命运](中英对照课件/lecture5.md) · [Slide 7 · Biotransformation — Detoxication vs Metabolic activation](中英对照课件/lecture5.md) · [Slide 8 · General principles of biotransformation](中英对照课件/lecture5.md)
 
 ## 试题2
 
@@ -74,8 +74,8 @@ Which of the following is NOT a correct description of cytochrome P450 (CYP)?
 > **✅ 答案 d** · 依据 **L5 p19–p20**：课件在「**drug overdose**（药物过量）」示例中把 **Furanocoumarin（呋喃香豆素，葡萄柚汁成分）** 与 **Ritonavir** 并列为 **CYP3A4 抑制剂**（图中两条支路：`CYP3A4 inactivation (inducer)` 与 `drug overdose (inhibitor)`）；p20：*"Grapefruit juice is known to interact with over 85 medications"*。d 项把**抑制剂**说成**诱导剂**，故为「不正确描述」。
 > a、b、c 依据 **p16** 的定义：*"**CYP3A4 substrates**: Chemicals that are metabolized by CYP3A4. **CYP3A4 inducers**: Chemicals that increase the expression of CYP3A4. **CYP3A4 inhibitors**: Chemicals that inhibit the activity of CYP3A4."*
 >
-> 🔗 **课件定位**：[L5 · Slide 16 · Substrates, inducers and inhibitors of CYP3A4](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [L5 · Slide 19 · CYP-related drug-drug interactions — drug overdose 例](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [L5 · Slide 20 · Grapefruit juice 与 85+ 药物相互作用](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
-> ↳ 前置：[Slide 13 · Cytochrome P450 (CYPs)](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 14 · Cytochrome P450 members](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 18 · CYP-related drug-drug interactions — drug inactivation 例](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
+> 🔗 **课件定位**：[L5 · Slide 16 · Substrates, inducers and inhibitors of CYP3A4](中英对照课件/lecture5.md) · [L5 · Slide 19 · CYP-related drug-drug interactions — drug overdose 例](中英对照课件/lecture5.md) · [L5 · Slide 20 · Grapefruit juice 与 85+ 药物相互作用](中英对照课件/lecture5.md)
+> ↳ 前置：[Slide 13 · Cytochrome P450 (CYPs)](中英对照课件/lecture5.md) · [Slide 14 · Cytochrome P450 members](中英对照课件/lecture5.md) · [Slide 18 · CYP-related drug-drug interactions — drug inactivation 例](中英对照课件/lecture5.md)
 
 ## 试题3
 
@@ -89,8 +89,8 @@ Which of the following reactions is most characteristic of Phase II biotransform
 > **✅ 答案 c** · 依据 **L5 p24–p25**：*"**Phase II reactions** — Major goal: prepare xenobiotics for **excretion** (urine or bile) • **Conjugation with glucuronic acid (Glucuronidation)** • Sulfation • Glutathione conjugation …"*；p25 明确 *"**UGT = UDP-glucuronosyltransferase**, UDP-GA = UDP-glucuronic acid"*。
 > a、b、d 均属**Ⅰ相反应** —— 依据 **p9**：*"**Phase I**: Oxidation（CYP 主导）/ Hydrolysis / Reduction"*；**p12** 列出的Ⅰ相酶包含 **monoamine oxidase (MAO)** 与 **esterases (hydrolase)**。
 >
-> 🔗 **课件定位**：[L5 · Slide 24 · Phase II reactions](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [L5 · Slide 25 · Glucuronidation pathway](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
-> ↳ 前置：[Slide 9 · Four major reactions（Ⅰ相 / Ⅱ相）](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 12 · Principal Phase I enzymes](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 26 · Summary — Ⅰ相 / Ⅱ相总览](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
+> 🔗 **课件定位**：[L5 · Slide 24 · Phase II reactions](中英对照课件/lecture5.md) · [L5 · Slide 25 · Glucuronidation pathway](中英对照课件/lecture5.md)
+> ↳ 前置：[Slide 9 · Four major reactions（Ⅰ相 / Ⅱ相）](中英对照课件/lecture5.md) · [Slide 12 · Principal Phase I enzymes](中英对照课件/lecture5.md) · [Slide 26 · Summary — Ⅰ相 / Ⅱ相总览](中英对照课件/lecture5.md)
 
 ## 试题4
 
@@ -114,8 +114,8 @@ Which of the following reactions is most characteristic of Phase II biotransform
 > 3. 与 p17 的「drug inactivation（诱导剂 → 底物失效）」形成对照：诱导剂使底物**清除加快、疗效下降**；抑制剂使底物**蓄积、可致过量**。
 > ⚠️ 学生的作答与课件原理一致，属可接受答案；具体数值（半衰期、AUC、EC90）来自网络资料，非课件内容，**以任课教师评分标准为准**。
 >
-> 🔗 **课件定位**：[L5 · Slide 17 · CYP-related drug-drug interactions](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [L5 · Slide 19 · CYP-related drug-drug interactions — drug overdose 例](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
-> ↳ 前置：[Slide 16 · Substrates, inducers and inhibitors of CYP3A4](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 18 · CYP-related drug-drug interactions — drug inactivation 例](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
+> 🔗 **课件定位**：[L5 · Slide 17 · CYP-related drug-drug interactions](中英对照课件/lecture5.md) · [L5 · Slide 19 · CYP-related drug-drug interactions — drug overdose 例](中英对照课件/lecture5.md)
+> ↳ 前置：[Slide 16 · Substrates, inducers and inhibitors of CYP3A4](中英对照课件/lecture5.md) · [Slide 18 · CYP-related drug-drug interactions — drug inactivation 例](中英对照课件/lecture5.md)
 
 ## 试题5
 
@@ -129,8 +129,8 @@ When is the critical period in human fetal development that is the most suscepti
 > **✅ 答案 b** · 依据 **L5 p39**：*"**Embryonic (organogenesis) Period (3–8 weeks)** — The stage of organ formation … Toxic agent exposure during organogenesis period: **Maximum susceptibility to malformations (heart, limb, facial features, …)**; Peak susceptibility coincides with the time of key developmental events."* —— 课件原文直接列出 **limb（肢体）**，故答案为器官形成期。
 > 对照 **p36** 三阶段：Preimplantation (germinal) **0–2 周**；Embryonic (organogenesis) **3–8 周**；Fetal period **9 周至出生**。p38：着床前期为 *"**All-or-nothing**"*（全或无）；p40：胎儿期主要影响**生长与功能成熟**（低出生体重、CNS/生殖/肺/免疫系统），不造成典型结构畸形。
 >
-> 🔗 **课件定位**：[L5 · Slide 36 · Stages of fetal development](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [L5 · Slide 39 · Critical periods in human development — Embryonic / organogenesis (3–8 wk)](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
-> ↳ 前置：[Slide 37 · Critical period in developmental toxicity](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 38 · Critical periods in human development — Preimplantation (0–2 wk)](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 40 · Critical periods in human development — Fetal period (9 wk–birth)](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
+> 🔗 **课件定位**：[L5 · Slide 36 · Stages of fetal development](中英对照课件/lecture5.md) · [L5 · Slide 39 · Critical periods in human development — Embryonic / organogenesis (3–8 wk)](中英对照课件/lecture5.md)
+> ↳ 前置：[Slide 37 · Critical period in developmental toxicity](中英对照课件/lecture5.md) · [Slide 38 · Critical periods in human development — Preimplantation (0–2 wk)](中英对照课件/lecture5.md) · [Slide 40 · Critical periods in human development — Fetal period (9 wk–birth)](中英对照课件/lecture5.md)
 
 ## 试题6
 
@@ -145,8 +145,8 @@ Which of the following is NOT correct description for alcohol (ethanol) teratoge
 > a 依据 **p44–p45**：FAS 表现为 *"**Facial abnormalities**, Growth retardation, Mental retardation"*，且 *"Exposure during first 3 months – structural defects e.g. **facial changes**"*；b 依据 **p46**：*"**Acetaldehyde is the teratogenic metabolite of ethanol**"*（属课件明确支持的**正确**表述，故不是答案）；d 依据 **p45**：*"There is **no critical period** known for alcohol use during pregnancy … **Growth and CNS defects by alcohol use can occur during anytime in pregnancy**"*。
 > ⚠️ **学生勾选 b 为误选**（b 是正确表述），正确答案为 **c**。
 >
-> 🔗 **课件定位**：[L5 · Slide 46 · Teratogenic effects of Ethanol — 机制（acetaldehyde）](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [L5 · Slide 48 · Teratogenic effects of Tobacco smoke](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
-> ↳ 前置：[Slide 44 · 1. Alcohol (Ethanol)](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 45 · Teratogenic effects of Ethanol](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
+> 🔗 **课件定位**：[L5 · Slide 46 · Teratogenic effects of Ethanol — 机制（acetaldehyde）](中英对照课件/lecture5.md) · [L5 · Slide 48 · Teratogenic effects of Tobacco smoke](中英对照课件/lecture5.md)
+> ↳ 前置：[Slide 44 · 1. Alcohol (Ethanol)](中英对照课件/lecture5.md) · [Slide 45 · Teratogenic effects of Ethanol](中英对照课件/lecture5.md)
 
 ## 试题7
 
@@ -251,8 +251,8 @@ What is the critical period for thalidomide teratogenicity?
 
 ---
 
-相关：课程索引 · [quiz1](01_Projects/HSCI7005毒理学/quiz1.md) · [quiz2](01_Projects/HSCI7005毒理学/quiz2.md) · [quiz3](01_Projects/HSCI7005毒理学/quiz3.md) · [quiz4](01_Projects/HSCI7005毒理学/quiz4.md)
+相关：课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md)
 >
-> 🔗 **课件定位**：[L5 · Slide 52 · Causes of the disaster（关键期 20–36 天）](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
-> ↳ 前置：[Slide 49 · 3. Thalidomide](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 50 · Developmental toxicity of Thalidomide](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md) · [Slide 51 · Developmental toxicity of Thalidomide — 致畸表现](01_Projects/HSCI7005毒理学/中英对照课件/lecture5.md)
+> 🔗 **课件定位**：[L5 · Slide 52 · Causes of the disaster（关键期 20–36 天）](中英对照课件/lecture5.md)
+> ↳ 前置：[Slide 49 · 3. Thalidomide](中英对照课件/lecture5.md) · [Slide 50 · Developmental toxicity of Thalidomide](中英对照课件/lecture5.md) · [Slide 51 · Developmental toxicity of Thalidomide — 致畸表现](中英对照课件/lecture5.md)
 

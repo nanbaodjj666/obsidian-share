@@ -14,9 +14,9 @@ aliases:
 # HSCI7005 · Lecture 2. Risk assessment and toxic agents
 
 > **主体内容**：课件原文，逐页以原版截图呈现，共 74 页（未转文字）。
-> **插入内容**：与《[本科毒理学笔记](01_Projects/HSCI7005毒理学/本科毒理学笔记.md)》对应处，紧跟对应页插入笔记原文（中文），逐字照搬，未改写。
+> **插入内容**：与《[本科毒理学笔记](../本科毒理学笔记.md)》对应处，紧跟对应页插入笔记原文（中文），逐字照搬，未改写。
 > **截图位置**：`50_Assets/lecture图片/`；点击图片可放大查看原文。
-> **反向链接**：每题对应的 Slide 下方有 `📝 **相关习题**` 行，可点回 [quiz2](01_Projects/HSCI7005毒理学/quiz2.md) 的对应题目。
+> **反向链接**：每题对应的 Slide 下方有 `📝 **相关习题**` 行，可点回 [quiz2](../quiz2.md) 的对应题目。
 > **原课件**：Lecture 2. Risk assessment and toxic agents.pdf
 > ⚠️ 医学内容请以教材、指南与任课教师讲解为准复核，不可用于临床决策。
 
@@ -24,7 +24,7 @@ aliases:
 
 ## 本讲导读
 
-> 本讲共 **74 页**课件截图；与《[本科毒理学笔记](01_Projects/HSCI7005毒理学/本科毒理学笔记.md)》有 **12 处**对照；本讲 [quiz2](01_Projects/HSCI7005毒理学/quiz2.md) 共 **7 题**。
+> 本讲共 **74 页**课件截图；与《[本科毒理学笔记](../本科毒理学笔记.md)》有 **12 处**对照；本讲 [quiz2](../quiz2.md) 共 **7 题**。
 
 | 分区 | Slide 范围 |
 | --- | --- |
@@ -34,28 +34,28 @@ aliases:
 
 **本科笔记对照位置**
 
-- [Slide 4](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 风险评估
-- [Slide 9](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 第九章 管理毒理学
-- [Slide 11](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 一、危害识别
-- [Slide 16](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 二、剂量-反应关系评定
-- [Slide 17](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 第五章 一般毒性作用
-- [Slide 18](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 二、（定义）短期、亚慢性和慢性毒作用
-- [Slide 20](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 短期、亚慢性和慢性毒作用
-- [Slide 21](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 化学致癌物的毒理学检测方法
-- [Slide 25](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 三、暴露评估
-- [Slide 27](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 生物学标志biomarker
-- [Slide 29](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 四、风险特征分析
-- [Slide 36](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · 安全性毒理学评价
+- [Slide 4](lecture2.md) · 风险评估
+- [Slide 9](lecture2.md) · 第九章 管理毒理学
+- [Slide 11](lecture2.md) · 一、危害识别
+- [Slide 16](lecture2.md) · 二、剂量-反应关系评定
+- [Slide 17](lecture2.md) · 第五章 一般毒性作用
+- [Slide 18](lecture2.md) · 二、（定义）短期、亚慢性和慢性毒作用
+- [Slide 20](lecture2.md) · 短期、亚慢性和慢性毒作用
+- [Slide 21](lecture2.md) · 化学致癌物的毒理学检测方法
+- [Slide 25](lecture2.md) · 三、暴露评估
+- [Slide 27](lecture2.md) · 生物学标志biomarker
+- [Slide 29](lecture2.md) · 四、风险特征分析
+- [Slide 36](lecture2.md) · 安全性毒理学评价
 
 **本讲习题 → 知识点**（点题号翻习题，点 Slide 翻课件页）
 
-- [试题1](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 11](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 29](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 13](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 14](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
-- [试题2](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 17](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 16](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 18](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 19](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
-- [试题3](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 30](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 31](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 32](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
-- [试题4](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 62](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 60](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 61](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 63](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
-- [试题5](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 70](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 71](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 72](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
-- [试题6](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 46](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 47](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
-- [试题7](01_Projects/HSCI7005毒理学/quiz2.md) → [Slide 50](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 51](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)　↳ [Slide 48](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 49](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md) · [Slide 52](01_Projects/HSCI7005毒理学/中英对照课件/lecture2.md)
+- [试题1](../quiz2.md) → [Slide 11](lecture2.md) · [Slide 29](lecture2.md)　↳ [Slide 13](lecture2.md) · [Slide 14](lecture2.md)
+- [试题2](../quiz2.md) → [Slide 17](lecture2.md)　↳ [Slide 16](lecture2.md) · [Slide 18](lecture2.md) · [Slide 19](lecture2.md)
+- [试题3](../quiz2.md) → [Slide 30](lecture2.md)　↳ [Slide 31](lecture2.md) · [Slide 32](lecture2.md)
+- [试题4](../quiz2.md) → [Slide 62](lecture2.md)　↳ [Slide 60](lecture2.md) · [Slide 61](lecture2.md) · [Slide 63](lecture2.md)
+- [试题5](../quiz2.md) → [Slide 70](lecture2.md)　↳ [Slide 71](lecture2.md) · [Slide 72](lecture2.md)
+- [试题6](../quiz2.md) → [Slide 46](lecture2.md)　↳ [Slide 47](lecture2.md)
+- [试题7](../quiz2.md) → [Slide 50](lecture2.md) · [Slide 51](lecture2.md)　↳ [Slide 48](lecture2.md) · [Slide 49](lecture2.md) · [Slide 52](lecture2.md)
 
 ---
 
@@ -63,13 +63,13 @@ aliases:
 
 ### Slide 1
 
-![HSCI7005-L2-s01.jpg](50_Assets/lecture图片/HSCI7005-L2-s01.jpg)
+![HSCI7005-L2-s01.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s01.jpg)
 
 ---
 
 ### Slide 2
 
-![HSCI7005-L2-s02.jpg](50_Assets/lecture图片/HSCI7005-L2-s02.jpg)
+![HSCI7005-L2-s02.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s02.jpg)
 
 ---
 
@@ -77,13 +77,13 @@ aliases:
 
 ### Slide 3
 
-![HSCI7005-L2-s03.jpg](50_Assets/lecture图片/HSCI7005-L2-s03.jpg)
+![HSCI7005-L2-s03.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s03.jpg)
 
 ---
 
 ### Slide 4
 
-![HSCI7005-L2-s04.jpg](50_Assets/lecture图片/HSCI7005-L2-s04.jpg)
+![HSCI7005-L2-s04.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s04.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -111,31 +111,31 @@ aliases:
 
 ### Slide 5
 
-![HSCI7005-L2-s05.jpg](50_Assets/lecture图片/HSCI7005-L2-s05.jpg)
+![HSCI7005-L2-s05.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s05.jpg)
 
 ---
 
 ### Slide 6
 
-![HSCI7005-L2-s06.jpg](50_Assets/lecture图片/HSCI7005-L2-s06.jpg)
+![HSCI7005-L2-s06.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s06.jpg)
 
 ---
 
 ### Slide 7
 
-![HSCI7005-L2-s07.jpg](50_Assets/lecture图片/HSCI7005-L2-s07.jpg)
+![HSCI7005-L2-s07.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s07.jpg)
 
 ---
 
 ### Slide 8
 
-![HSCI7005-L2-s08.jpg](50_Assets/lecture图片/HSCI7005-L2-s08.jpg)
+![HSCI7005-L2-s08.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s08.jpg)
 
 ---
 
 ### Slide 9
 
-![HSCI7005-L2-s09.jpg](50_Assets/lecture图片/HSCI7005-L2-s09.jpg)
+![HSCI7005-L2-s09.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s09.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -171,15 +171,15 @@ aliases:
 
 ### Slide 10
 
-![HSCI7005-L2-s10.jpg](50_Assets/lecture图片/HSCI7005-L2-s10.jpg)
+![HSCI7005-L2-s10.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s10.jpg)
 
 ---
 
 ### Slide 11
 
-![HSCI7005-L2-s11.jpg](50_Assets/lecture图片/HSCI7005-L2-s11.jpg)
+![HSCI7005-L2-s11.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s11.jpg)
 
-> 📝 **相关习题**：[试题1](01_Projects/HSCI7005毒理学/quiz2.md)
+> 📝 **相关习题**：[试题1](../quiz2.md)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -198,37 +198,37 @@ aliases:
 
 ### Slide 12
 
-![HSCI7005-L2-s12.jpg](50_Assets/lecture图片/HSCI7005-L2-s12.jpg)
+![HSCI7005-L2-s12.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s12.jpg)
 
 ---
 
 ### Slide 13
 
-![HSCI7005-L2-s13.jpg](50_Assets/lecture图片/HSCI7005-L2-s13.jpg)
+![HSCI7005-L2-s13.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s13.jpg)
 
-> ↳ 延伸参考：[试题1](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题1](../quiz2.md)
 
 ---
 
 ### Slide 14
 
-![HSCI7005-L2-s14.jpg](50_Assets/lecture图片/HSCI7005-L2-s14.jpg)
+![HSCI7005-L2-s14.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s14.jpg)
 
-> ↳ 延伸参考：[试题1](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题1](../quiz2.md)
 
 ---
 
 ### Slide 15
 
-![HSCI7005-L2-s15.jpg](50_Assets/lecture图片/HSCI7005-L2-s15.jpg)
+![HSCI7005-L2-s15.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s15.jpg)
 
 ---
 
 ### Slide 16
 
-![HSCI7005-L2-s16.jpg](50_Assets/lecture图片/HSCI7005-L2-s16.jpg)
+![HSCI7005-L2-s16.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s16.jpg)
 
-> ↳ 延伸参考：[试题2](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题2](../quiz2.md)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -258,9 +258,9 @@ aliases:
 
 ### Slide 17
 
-![HSCI7005-L2-s17.jpg](50_Assets/lecture图片/HSCI7005-L2-s17.jpg)
+![HSCI7005-L2-s17.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s17.jpg)
 
-> 📝 **相关习题**：[试题2](01_Projects/HSCI7005毒理学/quiz2.md)
+> 📝 **相关习题**：[试题2](../quiz2.md)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -291,19 +291,19 @@ aliases:
 >
 > **急性毒性试验方法**
 >
-> ![毒理学笔记-图10.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图10.png)
+> ![毒理学笔记-图10.png](../../../50_Assets/本科毒理学笔记思维导图/毒理学笔记-图10.png)
 >
 > **三、急性毒性的分级和评价**
 >
-> ![毒理学笔记-图11.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图11.png)
+> ![毒理学笔记-图11.png](../../../50_Assets/本科毒理学笔记思维导图/毒理学笔记-图11.png)
 
 ---
 
 ### Slide 18
 
-![HSCI7005-L2-s18.jpg](50_Assets/lecture图片/HSCI7005-L2-s18.jpg)
+![HSCI7005-L2-s18.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s18.jpg)
 
-> ↳ 延伸参考：[试题2](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题2](../quiz2.md)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -324,11 +324,11 @@ aliases:
 >
 > **四、短期、亚慢性毒性试验设计**
 >
-> ![毒理学笔记-图12.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图12.png)
+> ![毒理学笔记-图12.png](../../../50_Assets/本科毒理学笔记思维导图/毒理学笔记-图12.png)
 >
 > **五、慢性毒性试验设计**
 >
-> ![毒理学笔记-图13.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图13.png)
+> ![毒理学笔记-图13.png](../../../50_Assets/本科毒理学笔记思维导图/毒理学笔记-图13.png)
 >
 > 亚慢性毒性试验和慢性毒性试验的异同
 >
@@ -352,15 +352,15 @@ aliases:
 
 ### Slide 19
 
-![HSCI7005-L2-s19.jpg](50_Assets/lecture图片/HSCI7005-L2-s19.jpg)
+![HSCI7005-L2-s19.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s19.jpg)
 
-> ↳ 延伸参考：[试题2](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题2](../quiz2.md)
 
 ---
 
 ### Slide 20
 
-![HSCI7005-L2-s20.jpg](50_Assets/lecture图片/HSCI7005-L2-s20.jpg)
+![HSCI7005-L2-s20.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s20.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -383,7 +383,7 @@ aliases:
 
 ### Slide 21
 
-![HSCI7005-L2-s21.jpg](50_Assets/lecture图片/HSCI7005-L2-s21.jpg)
+![HSCI7005-L2-s21.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s21.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -433,31 +433,31 @@ aliases:
 >
 > 如果是阴性，不能完全确定为非致癌物，因为可能是暴露时间短或水平低所致
 >
-> ![毒理学笔记-图25.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图25.png)
+> ![毒理学笔记-图25.png](../../../50_Assets/本科毒理学笔记思维导图/毒理学笔记-图25.png)
 
 ---
 
 ### Slide 22
 
-![HSCI7005-L2-s22.jpg](50_Assets/lecture图片/HSCI7005-L2-s22.jpg)
+![HSCI7005-L2-s22.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s22.jpg)
 
 ---
 
 ### Slide 23
 
-![HSCI7005-L2-s23.jpg](50_Assets/lecture图片/HSCI7005-L2-s23.jpg)
+![HSCI7005-L2-s23.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s23.jpg)
 
 ---
 
 ### Slide 24
 
-![HSCI7005-L2-s24.jpg](50_Assets/lecture图片/HSCI7005-L2-s24.jpg)
+![HSCI7005-L2-s24.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s24.jpg)
 
 ---
 
 ### Slide 25
 
-![HSCI7005-L2-s25.jpg](50_Assets/lecture图片/HSCI7005-L2-s25.jpg)
+![HSCI7005-L2-s25.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s25.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -471,13 +471,13 @@ aliases:
 
 ### Slide 26
 
-![HSCI7005-L2-s26.jpg](50_Assets/lecture图片/HSCI7005-L2-s26.jpg)
+![HSCI7005-L2-s26.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s26.jpg)
 
 ---
 
 ### Slide 27
 
-![HSCI7005-L2-s27.jpg](50_Assets/lecture图片/HSCI7005-L2-s27.jpg)
+![HSCI7005-L2-s27.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s27.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -499,15 +499,15 @@ aliases:
 
 ### Slide 28
 
-![HSCI7005-L2-s28.jpg](50_Assets/lecture图片/HSCI7005-L2-s28.jpg)
+![HSCI7005-L2-s28.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s28.jpg)
 
 ---
 
 ### Slide 29
 
-![HSCI7005-L2-s29.jpg](50_Assets/lecture图片/HSCI7005-L2-s29.jpg)
+![HSCI7005-L2-s29.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s29.jpg)
 
-> 📝 **相关习题**：[试题1](01_Projects/HSCI7005毒理学/quiz2.md)
+> 📝 **相关习题**：[试题1](../quiz2.md)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -523,49 +523,49 @@ aliases:
 
 ### Slide 30
 
-![HSCI7005-L2-s30.jpg](50_Assets/lecture图片/HSCI7005-L2-s30.jpg)
+![HSCI7005-L2-s30.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s30.jpg)
 
-> 📝 **相关习题**：[试题3](01_Projects/HSCI7005毒理学/quiz2.md)
+> 📝 **相关习题**：[试题3](../quiz2.md)
 
 ---
 
 ### Slide 31
 
-![HSCI7005-L2-s31.jpg](50_Assets/lecture图片/HSCI7005-L2-s31.jpg)
+![HSCI7005-L2-s31.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s31.jpg)
 
-> ↳ 延伸参考：[试题3](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题3](../quiz2.md)
 
 ---
 
 ### Slide 32
 
-![HSCI7005-L2-s32.jpg](50_Assets/lecture图片/HSCI7005-L2-s32.jpg)
+![HSCI7005-L2-s32.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s32.jpg)
 
-> ↳ 延伸参考：[试题3](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题3](../quiz2.md)
 
 ---
 
 ### Slide 33
 
-![HSCI7005-L2-s33.jpg](50_Assets/lecture图片/HSCI7005-L2-s33.jpg)
+![HSCI7005-L2-s33.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s33.jpg)
 
 ---
 
 ### Slide 34
 
-![HSCI7005-L2-s34.jpg](50_Assets/lecture图片/HSCI7005-L2-s34.jpg)
+![HSCI7005-L2-s34.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s34.jpg)
 
 ---
 
 ### Slide 35
 
-![HSCI7005-L2-s35.jpg](50_Assets/lecture图片/HSCI7005-L2-s35.jpg)
+![HSCI7005-L2-s35.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s35.jpg)
 
 ---
 
 ### Slide 36
 
-![HSCI7005-L2-s36.jpg](50_Assets/lecture图片/HSCI7005-L2-s36.jpg)
+![HSCI7005-L2-s36.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s36.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -585,7 +585,7 @@ aliases:
 >
 > **二、四阶段试验**
 >
-> ![毒理学笔记-图31.png](50_Assets/本科毒理学笔记思维导图/毒理学笔记-图31.png)
+> ![毒理学笔记-图31.png](../../../50_Assets/本科毒理学笔记思维导图/毒理学笔记-图31.png)
 >
 > 安全系数SF（不确定系数UF）一般取100
 >
@@ -595,13 +595,13 @@ aliases:
 
 ### Slide 37
 
-![HSCI7005-L2-s37.jpg](50_Assets/lecture图片/HSCI7005-L2-s37.jpg)
+![HSCI7005-L2-s37.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s37.jpg)
 
 ---
 
 ### Slide 38
 
-![HSCI7005-L2-s38.jpg](50_Assets/lecture图片/HSCI7005-L2-s38.jpg)
+![HSCI7005-L2-s38.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s38.jpg)
 
 ---
 
@@ -609,244 +609,244 @@ aliases:
 
 ### Slide 39
 
-![HSCI7005-L2-s39.jpg](50_Assets/lecture图片/HSCI7005-L2-s39.jpg)
+![HSCI7005-L2-s39.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s39.jpg)
 
 ---
 
 ### Slide 40
 
-![HSCI7005-L2-s40.jpg](50_Assets/lecture图片/HSCI7005-L2-s40.jpg)
+![HSCI7005-L2-s40.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s40.jpg)
 
 ---
 
 ### Slide 41
 
-![HSCI7005-L2-s41.jpg](50_Assets/lecture图片/HSCI7005-L2-s41.jpg)
+![HSCI7005-L2-s41.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s41.jpg)
 
 ---
 
 ### Slide 42
 
-![HSCI7005-L2-s42.jpg](50_Assets/lecture图片/HSCI7005-L2-s42.jpg)
+![HSCI7005-L2-s42.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s42.jpg)
 
 ---
 
 ### Slide 43
 
-![HSCI7005-L2-s43.jpg](50_Assets/lecture图片/HSCI7005-L2-s43.jpg)
+![HSCI7005-L2-s43.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s43.jpg)
 
 ---
 
 ### Slide 44
 
-![HSCI7005-L2-s44.jpg](50_Assets/lecture图片/HSCI7005-L2-s44.jpg)
+![HSCI7005-L2-s44.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s44.jpg)
 
 ---
 
 ### Slide 45
 
-![HSCI7005-L2-s45.jpg](50_Assets/lecture图片/HSCI7005-L2-s45.jpg)
+![HSCI7005-L2-s45.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s45.jpg)
 
 ---
 
 ### Slide 46
 
-![HSCI7005-L2-s46.jpg](50_Assets/lecture图片/HSCI7005-L2-s46.jpg)
+![HSCI7005-L2-s46.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s46.jpg)
 
-> 📝 **相关习题**：[试题6](01_Projects/HSCI7005毒理学/quiz2.md)
+> 📝 **相关习题**：[试题6](../quiz2.md)
 
 ---
 
 ### Slide 47
 
-![HSCI7005-L2-s47.jpg](50_Assets/lecture图片/HSCI7005-L2-s47.jpg)
+![HSCI7005-L2-s47.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s47.jpg)
 
-> ↳ 延伸参考：[试题6](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题6](../quiz2.md)
 
 ---
 
 ### Slide 48
 
-![HSCI7005-L2-s48.jpg](50_Assets/lecture图片/HSCI7005-L2-s48.jpg)
+![HSCI7005-L2-s48.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s48.jpg)
 
-> ↳ 延伸参考：[试题7](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题7](../quiz2.md)
 
 ---
 
 ### Slide 49
 
-![HSCI7005-L2-s49.jpg](50_Assets/lecture图片/HSCI7005-L2-s49.jpg)
+![HSCI7005-L2-s49.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s49.jpg)
 
-> ↳ 延伸参考：[试题7](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题7](../quiz2.md)
 
 ---
 
 ### Slide 50
 
-![HSCI7005-L2-s50.jpg](50_Assets/lecture图片/HSCI7005-L2-s50.jpg)
+![HSCI7005-L2-s50.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s50.jpg)
 
-> 📝 **相关习题**：[试题7](01_Projects/HSCI7005毒理学/quiz2.md)
+> 📝 **相关习题**：[试题7](../quiz2.md)
 
 ---
 
 ### Slide 51
 
-![HSCI7005-L2-s51.jpg](50_Assets/lecture图片/HSCI7005-L2-s51.jpg)
+![HSCI7005-L2-s51.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s51.jpg)
 
-> 📝 **相关习题**：[试题7](01_Projects/HSCI7005毒理学/quiz2.md)
+> 📝 **相关习题**：[试题7](../quiz2.md)
 
 ---
 
 ### Slide 52
 
-![HSCI7005-L2-s52.jpg](50_Assets/lecture图片/HSCI7005-L2-s52.jpg)
+![HSCI7005-L2-s52.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s52.jpg)
 
-> ↳ 延伸参考：[试题7](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题7](../quiz2.md)
 
 ---
 
 ### Slide 53
 
-![HSCI7005-L2-s53.jpg](50_Assets/lecture图片/HSCI7005-L2-s53.jpg)
+![HSCI7005-L2-s53.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s53.jpg)
 
 ---
 
 ### Slide 54
 
-![HSCI7005-L2-s54.jpg](50_Assets/lecture图片/HSCI7005-L2-s54.jpg)
+![HSCI7005-L2-s54.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s54.jpg)
 
 ---
 
 ### Slide 55
 
-![HSCI7005-L2-s55.jpg](50_Assets/lecture图片/HSCI7005-L2-s55.jpg)
+![HSCI7005-L2-s55.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s55.jpg)
 
 ---
 
 ### Slide 56
 
-![HSCI7005-L2-s56.jpg](50_Assets/lecture图片/HSCI7005-L2-s56.jpg)
+![HSCI7005-L2-s56.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s56.jpg)
 
 ---
 
 ### Slide 57
 
-![HSCI7005-L2-s57.jpg](50_Assets/lecture图片/HSCI7005-L2-s57.jpg)
+![HSCI7005-L2-s57.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s57.jpg)
 
 ---
 
 ### Slide 58
 
-![HSCI7005-L2-s58.jpg](50_Assets/lecture图片/HSCI7005-L2-s58.jpg)
+![HSCI7005-L2-s58.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s58.jpg)
 
 ---
 
 ### Slide 59
 
-![HSCI7005-L2-s59.jpg](50_Assets/lecture图片/HSCI7005-L2-s59.jpg)
+![HSCI7005-L2-s59.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s59.jpg)
 
 ---
 
 ### Slide 60
 
-![HSCI7005-L2-s60.jpg](50_Assets/lecture图片/HSCI7005-L2-s60.jpg)
+![HSCI7005-L2-s60.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s60.jpg)
 
-> ↳ 延伸参考：[试题4](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题4](../quiz2.md)
 
 ---
 
 ### Slide 61
 
-![HSCI7005-L2-s61.jpg](50_Assets/lecture图片/HSCI7005-L2-s61.jpg)
+![HSCI7005-L2-s61.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s61.jpg)
 
-> ↳ 延伸参考：[试题4](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题4](../quiz2.md)
 
 ---
 
 ### Slide 62
 
-![HSCI7005-L2-s62.jpg](50_Assets/lecture图片/HSCI7005-L2-s62.jpg)
+![HSCI7005-L2-s62.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s62.jpg)
 
-> 📝 **相关习题**：[试题4](01_Projects/HSCI7005毒理学/quiz2.md)
+> 📝 **相关习题**：[试题4](../quiz2.md)
 
 ---
 
 ### Slide 63
 
-![HSCI7005-L2-s63.jpg](50_Assets/lecture图片/HSCI7005-L2-s63.jpg)
+![HSCI7005-L2-s63.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s63.jpg)
 
-> ↳ 延伸参考：[试题4](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题4](../quiz2.md)
 
 ---
 
 ### Slide 64
 
-![HSCI7005-L2-s64.jpg](50_Assets/lecture图片/HSCI7005-L2-s64.jpg)
+![HSCI7005-L2-s64.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s64.jpg)
 
 ---
 
 ### Slide 65
 
-![HSCI7005-L2-s65.jpg](50_Assets/lecture图片/HSCI7005-L2-s65.jpg)
+![HSCI7005-L2-s65.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s65.jpg)
 
 ---
 
 ### Slide 66
 
-![HSCI7005-L2-s66.jpg](50_Assets/lecture图片/HSCI7005-L2-s66.jpg)
+![HSCI7005-L2-s66.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s66.jpg)
 
 ---
 
 ### Slide 67
 
-![HSCI7005-L2-s67.jpg](50_Assets/lecture图片/HSCI7005-L2-s67.jpg)
+![HSCI7005-L2-s67.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s67.jpg)
 
 ---
 
 ### Slide 68
 
-![HSCI7005-L2-s68.jpg](50_Assets/lecture图片/HSCI7005-L2-s68.jpg)
+![HSCI7005-L2-s68.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s68.jpg)
 
 ---
 
 ### Slide 69
 
-![HSCI7005-L2-s69.jpg](50_Assets/lecture图片/HSCI7005-L2-s69.jpg)
+![HSCI7005-L2-s69.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s69.jpg)
 
 ---
 
 ### Slide 70
 
-![HSCI7005-L2-s70.jpg](50_Assets/lecture图片/HSCI7005-L2-s70.jpg)
+![HSCI7005-L2-s70.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s70.jpg)
 
-> 📝 **相关习题**：[试题5](01_Projects/HSCI7005毒理学/quiz2.md)
+> 📝 **相关习题**：[试题5](../quiz2.md)
 
 ---
 
 ### Slide 71
 
-![HSCI7005-L2-s71.jpg](50_Assets/lecture图片/HSCI7005-L2-s71.jpg)
+![HSCI7005-L2-s71.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s71.jpg)
 
-> ↳ 延伸参考：[试题5](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题5](../quiz2.md)
 
 ---
 
 ### Slide 72
 
-![HSCI7005-L2-s72.jpg](50_Assets/lecture图片/HSCI7005-L2-s72.jpg)
+![HSCI7005-L2-s72.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s72.jpg)
 
-> ↳ 延伸参考：[试题5](01_Projects/HSCI7005毒理学/quiz2.md)
+> ↳ 延伸参考：[试题5](../quiz2.md)
 
 ---
 
 ### Slide 73
 
-![HSCI7005-L2-s73.jpg](50_Assets/lecture图片/HSCI7005-L2-s73.jpg)
+![HSCI7005-L2-s73.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s73.jpg)
 
 ---
 
 ### Slide 74
 
-![HSCI7005-L2-s74.jpg](50_Assets/lecture图片/HSCI7005-L2-s74.jpg)
+![HSCI7005-L2-s74.jpg](../../../50_Assets/lecture图片/HSCI7005-L2-s74.jpg)
 
 ---

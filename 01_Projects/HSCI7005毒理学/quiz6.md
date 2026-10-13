@@ -18,12 +18,12 @@ aliases:
 
 > 来源：手机端学习平台 **Quiz-Lecture 6** 界面截图 8 张，前 7 题均为选择、均显示**还未作答**（无勾选痕迹），第 8 题为**简答题**。
 > **正确选项以粗体标出**，答案依据 Lecture 6 英文原版课件（`Lecture 6. Genotoxicity and chemical carcinogenesis.pdf`，67 页）逐题核对。
-> 🆕 **每题末附「课件定位」** —— 双链直达 [中英对照课件 lecture6](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) 的对应 `### Slide N`（该文件第 N 页截图即 PDF 第 N 页，一一对应）。
-> ✅ **Lecture 6 的「中英对照课件」已补齐**（`中英对照课件/lecture6.md`：67 页逐页截图 + 13 处《本科毒理学笔记》对照）。本题的「课件定位」已全部换成 `[lecture6#Slide N](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)`；对应 Slide 下方也有 `📝 **相关习题**` 回链，可双向跳转。
+> 🆕 **每题末附「课件定位」** —— 双链直达 [中英对照课件 lecture6](中英对照课件/lecture6.md) 的对应 `### Slide N`（该文件第 N 页截图即 PDF 第 N 页，一一对应）。
+> ✅ **Lecture 6 的「中英对照课件」已补齐**（`中英对照课件/lecture6.md`：67 页逐页截图 + 13 处《本科毒理学笔记》对照）。本题的「课件定位」已全部换成 `[lecture6#Slide N](中英对照课件/lecture6.md)`；对应 Slide 下方也有 `📝 **相关习题**` 回链，可双向跳转。
 > ✅ 试题1–8 已**全部录入**（含 1 道简答题）。
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
-> 相关：Lecture 6. Genotoxicity and chemical carcinogenesis.pdf · [lecture6](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · 课程索引 · [quiz1](01_Projects/HSCI7005毒理学/quiz1.md) · [quiz2](01_Projects/HSCI7005毒理学/quiz2.md) · [quiz3](01_Projects/HSCI7005毒理学/quiz3.md) · [quiz4](01_Projects/HSCI7005毒理学/quiz4.md) · [quiz5](01_Projects/HSCI7005毒理学/quiz5.md)
+> 相关：Lecture 6. Genotoxicity and chemical carcinogenesis.pdf · [lecture6](中英对照课件/lecture6.md) · 课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 
 ---
 
@@ -32,14 +32,14 @@ aliases:
 <details>
 <summary>展开 8 张原始截图</summary>
 
-![HSCI7005-Quiz-Lecture6-原图1.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图1.jpg)
-![HSCI7005-Quiz-Lecture6-原图2.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图2.jpg)
-![HSCI7005-Quiz-Lecture6-原图3.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图3.jpg)
-![HSCI7005-Quiz-Lecture6-原图4.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图4.jpg)
-![HSCI7005-Quiz-Lecture6-原图5.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图5.jpg)
-![HSCI7005-Quiz-Lecture6-原图6.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图6.jpg)
-![HSCI7005-Quiz-Lecture6-原图7.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图7.jpg)
-![HSCI7005-Quiz-Lecture6-原图8.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图8.jpg)
+![HSCI7005-Quiz-Lecture6-原图1.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图1.jpg)
+![HSCI7005-Quiz-Lecture6-原图2.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图2.jpg)
+![HSCI7005-Quiz-Lecture6-原图3.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图3.jpg)
+![HSCI7005-Quiz-Lecture6-原图4.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图4.jpg)
+![HSCI7005-Quiz-Lecture6-原图5.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图5.jpg)
+![HSCI7005-Quiz-Lecture6-原图6.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图6.jpg)
+![HSCI7005-Quiz-Lecture6-原图7.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图7.jpg)
+![HSCI7005-Quiz-Lecture6-原图8.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture6-原图8.jpg)
 
 </details>
 
@@ -57,7 +57,7 @@ Which of the following is NOT a correct description of gene mutation?
 > **✅ 答案 b** · 依据 **L6 p8**：课件原文 *"Silent Mutation — **Base change does not alter the amino acid**"*，给的例子正是 **DNA: GAA → GAG，两者都编码谷氨酸**。即沉默突变**碱基序列变了、氨基酸不变**；b 项把两点**全写反**（说不改碱基、反而改氨基酸），故为「不正确描述」。
 > a 依据 **p7**：*"Gene mutations — Changes in the DNA sequence that can affect how genes function"*；c 依据 **p8**：*"**Nonsense Mutation** — Base change **creates a stop codon**, ending translation prematurely（TAC → TAG，酪氨酸 → 终止密码子）"*；d 依据 **p9**（Frameshift mutations）与 **p7**（*"Small additions or deletions causing frameshift"*）—— 插入/缺失使**下游全部**密码子读框移位。
 >
-> 🔗 **课件定位**：[L6 · Slide 7 · Types of genetic damage — Gene mutations](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · [L6 · Slide 8 · Point mutations：Silent / Missense / Nonsense](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · [L6 · Slide 9 · Frameshift mutations](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
+> 🔗 **课件定位**：[L6 · Slide 7 · Types of genetic damage — Gene mutations](中英对照课件/lecture6.md) · [L6 · Slide 8 · Point mutations：Silent / Missense / Nonsense](中英对照课件/lecture6.md) · [L6 · Slide 9 · Frameshift mutations](中英对照课件/lecture6.md)
 
 ## 试题2
 
@@ -71,8 +71,8 @@ Which of the following terms refers to a numerical abnormality of chromosomes?
 > **✅ 答案 d** · 依据 **L6 p10**：染色体畸变分两类 —— **结构异常**：Deletion / Inversion / **Duplication** / **Insertion** / **Translocations**；**数目异常**：*"**Aneuploidy**: Gain or loss of chromosome(s)"*。a、b、c 全在结构异常列表里，只有 d 属数目异常。
 > 补充 **p12**：数目异常的例子 —— **Patau syndrome（trisomy 13，13 三体）**。
 >
-> 🔗 **课件定位**：[L6 · Slide 10 · Chromosomal aberrations：结构 vs 数目](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · [L6 · Slide 12 · Numerical abnormalities（Patau syndrome / trisomy 13）](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
-> ↳ 前置：[L6 · Slide 11 · Structural abnormalities 图示](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
+> 🔗 **课件定位**：[L6 · Slide 10 · Chromosomal aberrations：结构 vs 数目](中英对照课件/lecture6.md) · [L6 · Slide 12 · Numerical abnormalities（Patau syndrome / trisomy 13）](中英对照课件/lecture6.md)
+> ↳ 前置：[L6 · Slide 11 · Structural abnormalities 图示](中英对照课件/lecture6.md)
 
 ## 试题3
 
@@ -86,8 +86,8 @@ What type of genetic damage is caused by topotecan (a topoisomerase I inhibitor)
 > **✅ 答案 b** · 依据 **L6 p17**：*"Chemicals **inducing DNA strand breaks** (Example: **Topoisomerase inhibitors**)"* —— 拓扑异构酶抑制剂直接归入「导致 DNA 链断裂」一类。
 > 佐证 **p13**：单链断裂（SSB）成因里明确列 *"Topoisomerase inhibitors (e.g., **camptothecin**)"* —— **topotecan 正是喜树碱（camptothecin）的半合成衍生物**，抑制拓扑异构酶Ⅰ → DNA 复制时断裂。a（嘧啶二聚体）是 **UV** 的产物（p18）；c（DNA 加合物）来自**烷化剂/亲电基团共价结合**（p15–16）；d 是染色体层面的畸变（p10）。
 >
-> 🔗 **课件定位**：[L6 · Slide 17 · Genotoxic agents — Chemicals inducing DNA strand breaks（Topoisomerase inhibitors）](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
-> ↳ 前置：[L6 · Slide 13 · DNA strand breaks — SSB](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · [L6 · Slide 14 · DNA strand breaks — DSB](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
+> 🔗 **课件定位**：[L6 · Slide 17 · Genotoxic agents — Chemicals inducing DNA strand breaks（Topoisomerase inhibitors）](中英对照课件/lecture6.md)
+> ↳ 前置：[L6 · Slide 13 · DNA strand breaks — SSB](中英对照课件/lecture6.md) · [L6 · Slide 14 · DNA strand breaks — DSB](中英对照课件/lecture6.md)
 
 ## 试题4
 
@@ -101,8 +101,8 @@ Which gene defects cause Xeroderma pigmentosum?
 > **✅ 答案 c** · 依据 **L6 p20**：*"**Xeroderma pigmentosum (XP)**: a genetic disorder with **decreased ability to repair DNA damage caused by UV light**. **Due to mutations in genes involved in NER**（核苷酸切除修复）"*。
 > 链条：**p18** UV-B → 环丁烷**嘧啶二聚体（CPD）** → **p19** 由 **NER（nucleotide excision repair）** 修复 → **p20** NER 基因突变 → XP：轻度日晒即严重晒伤、皮肤干燥色素沉着、皮肤癌及其他癌症风险显著升高。
 >
-> 🔗 **课件定位**：[L6 · Slide 20 · Xeroderma pigmentosum — 缺 NER 系统](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
-> ↳ 前置：[L6 · Slide 19 · Repair of pyrimidine dimer — NER](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · [L6 · Slide 18 · UV-B → cyclobutane pyrimidine dimers (CPD)](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
+> 🔗 **课件定位**：[L6 · Slide 20 · Xeroderma pigmentosum — 缺 NER 系统](中英对照课件/lecture6.md)
+> ↳ 前置：[L6 · Slide 19 · Repair of pyrimidine dimer — NER](中英对照课件/lecture6.md) · [L6 · Slide 18 · UV-B → cyclobutane pyrimidine dimers (CPD)](中英对照课件/lecture6.md)
 
 ## 试题5
 
@@ -121,7 +121,7 @@ Which of the following is a correct description of the mouse lymphoma assay?
 > **b** 依据 **p27**：*"L5178Y … **heterozygous** for the thymidine kinase gene (**Tk+/-**)"* —— 杂合子**保留一个野生型 Tk1 等位基因 → 仍有 TK 活性**（否则本底无法被 TFT 杀死），说「lacks activity」错；
 > **c** 说反了方向 —— Tk+/- 在 TFT 中死亡是**本底行为**（与受试物是否致突变无关），判读指标是**是否长出存活克隆**。
 >
-> 🔗 **课件定位**：[L6 · Slide 26 · Forward vs reverse mutation assays](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · [L6 · Slide 27 · Mouse Lymphoma Assay — L5178Y（Tk+/-）](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · [L6 · Slide 28 · MLA 判读 — TFT 选择压](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
+> 🔗 **课件定位**：[L6 · Slide 26 · Forward vs reverse mutation assays](中英对照课件/lecture6.md) · [L6 · Slide 27 · Mouse Lymphoma Assay — L5178Y（Tk+/-）](中英对照课件/lecture6.md) · [L6 · Slide 28 · MLA 判读 — TFT 选择压](中英对照课件/lecture6.md)
 
 ---
 
@@ -139,8 +139,8 @@ Which of the following best describes dioxin?
 > 机制见 **p63–p64**：TCDD 与胞质受体 **AHR（芳香烃受体）** 高亲和结合 → 转位入核 → 结合 **XRE** → 诱导基因转录 → **促细胞分裂、氧化应激、免疫抑制**；它是**促癌剂（promoter）**，而非 DNA 反应性致突变物。
 > 逐项排除：a / b 都要求 "genotoxic（损伤 DNA）"，与 p42、p62 直接冲突；d「需代谢活化」是 **indirect-acting genotoxic carcinogen** 的定义（p43：*"require metabolic activation to be carcinogenic"*）—— dioxin 不靠代谢活化生成 DNA 反应性亲电体，AHR 受体通路 ≠ 代谢活化。
 >
-> 🔗 **课件定位**：[L6 · Slide 42 · Non-genotoxic chemicals（E.g. Dioxin）](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · [L6 · Slide 62 · Non-genotoxic carcinogens 总论](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
-> ↳ 延伸：[L6 · Slide 63 · Dioxin (TCDD)：来源与食物链蓄积](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · [L6 · Slide 64 · Dioxin 机制：AHR → XRE → 基因转录](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
+> 🔗 **课件定位**：[L6 · Slide 42 · Non-genotoxic chemicals（E.g. Dioxin）](中英对照课件/lecture6.md) · [L6 · Slide 62 · Non-genotoxic carcinogens 总论](中英对照课件/lecture6.md)
+> ↳ 延伸：[L6 · Slide 63 · Dioxin (TCDD)：来源与食物链蓄积](中英对照课件/lecture6.md) · [L6 · Slide 64 · Dioxin 机制：AHR → XRE → 基因转录](中英对照课件/lecture6.md)
 
 ## 试题7
 
@@ -159,8 +159,8 @@ Which of the following is a direct-acting carcinogen?
 > • **c Aflatoxin B₁** —— p48：*"Epoxidation of aflatoxin B"*，由 **CYP3A4** 环氧化活化。
 > 另 p47 的 NDMA 亦为间接实例（需 CYP 活化）。
 >
-> 🔗 **课件定位**：[L6 · Slide 43 · Direct vs indirect acting carcinogens](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · [L6 · Slide 46 · Example of direct-acting carcinogen：Methyl diazonium ion](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
-> ↳ 对照：[L6 · Slide 48 · 间接实例：Aflatoxin B 环氧化（CYP3A4）](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md) · [L6 · Slide 59 · 间接实例：Benzo(a)pyrene → 终致癌物（CYP1A1）](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
+> 🔗 **课件定位**：[L6 · Slide 43 · Direct vs indirect acting carcinogens](中英对照课件/lecture6.md) · [L6 · Slide 46 · Example of direct-acting carcinogen：Methyl diazonium ion](中英对照课件/lecture6.md)
+> ↳ 对照：[L6 · Slide 48 · 间接实例：Aflatoxin B 环氧化（CYP3A4）](中英对照课件/lecture6.md) · [L6 · Slide 59 · 间接实例：Benzo(a)pyrene → 终致癌物（CYP1A1）](中英对照课件/lecture6.md)
 
 ## 试题8（简答）
 
@@ -181,8 +181,8 @@ What are the core gold-standard treatments for ER-α positive breast cancer?（�
 >
 > 来源：NCCN Clinical Practice Guidelines in Oncology — *Breast Cancer*, Version 3.2024（JNCCN 22(5):331；jnccn.org）。⚠️ 本题为课程 quiz 简答，答题以课件 + 指南为准；临床决策须由肿瘤专科医师按个体情况制定，**本笔记不可用于临床**。
 >
-> 🔗 **课件定位**：[L6 · Slide 65 · Hormones promoting cancer（Estrogens → breast cancer；17β-estradiol / ER 激动剂）](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
-> ↳ 延伸：[L6 · Slide 66 · Summary — genotoxic vs non-genotoxic chemicals](01_Projects/HSCI7005毒理学/中英对照课件/lecture6.md)
+> 🔗 **课件定位**：[L6 · Slide 65 · Hormones promoting cancer（Estrogens → breast cancer；17β-estradiol / ER 激动剂）](中英对照课件/lecture6.md)
+> ↳ 延伸：[L6 · Slide 66 · Summary — genotoxic vs non-genotoxic chemicals](中英对照课件/lecture6.md)
 
 ---
 
@@ -290,5 +290,5 @@ What are the core gold-standard treatments for ER-α positive breast cancer?（�
 
 ---
 
-相关：课程索引 · [quiz1](01_Projects/HSCI7005毒理学/quiz1.md) · [quiz2](01_Projects/HSCI7005毒理学/quiz2.md) · [quiz3](01_Projects/HSCI7005毒理学/quiz3.md) · [quiz4](01_Projects/HSCI7005毒理学/quiz4.md) · [quiz5](01_Projects/HSCI7005毒理学/quiz5.md)
+相关：课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 

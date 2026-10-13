@@ -19,11 +19,11 @@ aliases:
 > 来源：手机端学习平台 **Lecture 1 quiz** 界面截图 8 张，全部题目均显示 **Not yet answered**（未作答状态，故无勾选痕迹）。
 > 已省略界面按钮文字（Clear my choice）。
 > **正确选项以粗体标出**，答案依据 Lecture 1 英文原版课件（`原版课件/Lecture 1. General principles of toxicology.pdf`）逐题核对。
-> 🆕 **每题末附「课件定位」** —— 双链直达中英对照课件 [Lecture 1](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md) 中**对应知识点所在的 Slide**，即该文件里的 `### Slide N` 小节，点击可跳到那一页原版截图。
+> 🆕 **每题末附「课件定位」** —— 双链直达中英对照课件 [Lecture 1](中英对照课件/lecture1.md) 中**对应知识点所在的 Slide**，即该文件里的 `### Slide N` 小节，点击可跳到那一页原版截图。
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
 > 相关：Lecture 1. General principles of toxicology.pdf ·
-> HSCI7005_Lecture1_毒理学一般原理_中文翻译 · 课程索引 · [quiz2](01_Projects/HSCI7005毒理学/quiz2.md) · [quiz3](01_Projects/HSCI7005毒理学/quiz3.md) · [quiz4](01_Projects/HSCI7005毒理学/quiz4.md) · [quiz5](01_Projects/HSCI7005毒理学/quiz5.md)
+> HSCI7005_Lecture1_毒理学一般原理_中文翻译 · 课程索引 · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 
 ---
 
@@ -32,14 +32,14 @@ aliases:
 <details>
 <summary>展开 8 张原始截图（1206 × 2622）</summary>
 
-![HSCI7005-Quiz-Lecture1-原图1.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图1.jpg)
-![HSCI7005-Quiz-Lecture1-原图2.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图2.jpg)
-![HSCI7005-Quiz-Lecture1-原图3.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图3.jpg)
-![HSCI7005-Quiz-Lecture1-原图4.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图4.jpg)
-![HSCI7005-Quiz-Lecture1-原图5.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图5.jpg)
-![HSCI7005-Quiz-Lecture1-原图6.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图6.jpg)
-![HSCI7005-Quiz-Lecture1-原图7.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图7.jpg)
-![HSCI7005-Quiz-Lecture1-原图8.jpg](50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图8.jpg)
+![HSCI7005-Quiz-Lecture1-原图1.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图1.jpg)
+![HSCI7005-Quiz-Lecture1-原图2.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图2.jpg)
+![HSCI7005-Quiz-Lecture1-原图3.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图3.jpg)
+![HSCI7005-Quiz-Lecture1-原图4.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图4.jpg)
+![HSCI7005-Quiz-Lecture1-原图5.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图5.jpg)
+![HSCI7005-Quiz-Lecture1-原图6.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图6.jpg)
+![HSCI7005-Quiz-Lecture1-原图7.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图7.jpg)
+![HSCI7005-Quiz-Lecture1-原图8.jpg](../../50_Assets/HSCI7005-quiz/HSCI7005-Quiz-Lecture1-原图8.jpg)
 
 </details>
 
@@ -56,7 +56,7 @@ Which of the following is NOT correct about dose and exposure?
 
 > **✅ 答案 c** · 依据 **L1 p29**：课件把暴露评估分两条路 —— *Personal exposure assessment → **Biological monitoring***（量体内有多少，采样为血／尿／组织）；*Environmental exposure assessment → **Ambiental monitoring***（量环境介质 air, soil, water, food 里有多少）。c 项把**生物监测**的定义安到了「environmental monitoring」头上。
 >
-> 🔗 **课件定位**：[L1 · Slide 29 · Exposure assessment](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
+> 🔗 **课件定位**：[L1 · Slide 29 · Exposure assessment](中英对照课件/lecture1.md)
 
 ## 试题2
 
@@ -69,8 +69,8 @@ A pesticide shows a NOAEL of 0.2 mg/kg/day in a chronic exposure rat study. Appl
 
 > **✅ 答案 d** · 依据 **L1 p23**：`Human ADI = Animal NOAEL ÷ uncertainty factor (100)`，其中 10 为种间（inter-species）、10 为种内（intra-species）差异。0.2 ÷ 100 = **0.002 mg/kg/day**。
 >
-> 🔗 **课件定位**：[L1 · Slide 23 · Determining human safety](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
-> ↳ 前置：[Slide 19 · Point of departure (POD)](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md) · [Slide 20 · 3 common types of POD（NOAEL / LOAEL / BMDL）](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
+> 🔗 **课件定位**：[L1 · Slide 23 · Determining human safety](中英对照课件/lecture1.md)
+> ↳ 前置：[Slide 19 · Point of departure (POD)](中英对照课件/lecture1.md) · [Slide 20 · 3 common types of POD（NOAEL / LOAEL / BMDL）](中英对照课件/lecture1.md)
 
 ## 试题3
 
@@ -83,8 +83,8 @@ What is the primary route of exposure for toxic air pollutants?
 
 > **✅ 答案 b** · 依据 **L1 p26**：暴露途径与部位 —— `Inhalation (lungs)` · `Dermal contact (skin)` · `Ingestion (GI tract)` · `Injection`。空气污染物经**肺吸入**进入；课件另给出各途径的相对效力排序 `iv > inhale > ip > im > ingest > dermal`。
 >
-> 🔗 **课件定位**：[L1 · Slide 26 · Routes of exposure](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
-> ↳ 前置：[Slide 25 · Routes of exposure (exposure pathway)](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
+> 🔗 **课件定位**：[L1 · Slide 26 · Routes of exposure](中英对照课件/lecture1.md)
+> ↳ 前置：[Slide 25 · Routes of exposure (exposure pathway)](中英对照课件/lecture1.md)
 
 ## 试题4
 
@@ -97,14 +97,14 @@ Which of the following is NOT about toxicokinetics?
 
 > **✅ 答案 d** · 依据 **L1 p32**：`ADME: Absorption, Distribution, Metabolism, and Excretion` —— 毒代动力学四要素。Evolution（进化）不属于。
 >
-> 🔗 **课件定位**：[L1 · Slide 32 · Toxicokinetics（ADME）](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
-> ↳ 前置：[Slide 31 · The fate of toxicants (toxicokinetics)](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
+> 🔗 **课件定位**：[L1 · Slide 32 · Toxicokinetics（ADME）](中英对照课件/lecture1.md)
+> ↳ 前置：[Slide 31 · The fate of toxicants (toxicokinetics)](中英对照课件/lecture1.md)
 
 ## 试题5
 
 See figure below and answer the following questions.
 
-![HSCI7005-L1-Quiz-Q5-dose-response.png](50_Assets/HSCI7005-quiz/HSCI7005-L1-Quiz-Q5-dose-response.png)
+![HSCI7005-L1-Quiz-Q5-dose-response.png](../../50_Assets/HSCI7005-quiz/HSCI7005-L1-Quiz-Q5-dose-response.png)
 
 （Drug A: ED99=12 mg/kg, TD1=12 mg/kg. Drug B: ED99=12 mg/kg, TD1=6 mg/kg）
 
@@ -119,8 +119,8 @@ What is MOS for both drugs and which drug is safer?
 > 代入本题：Drug A MOS = 12/12 = **1**；Drug B MOS = 6/12 = **0.5**。MOS 是「毒性起始剂量 ÷ 有效剂量」的比值，**比值越大越安全**，故 A 更安全（选项 a/b 把 TD1、ED99 的绝对值当成了 MOS，算错）。
 > ⚠️ 课件另注：MOS < 1 时医生必须谨慎用药 —— 两药中 B 已低于 1。
 >
-> 🔗 **课件定位**：[L1 · Slide 44 · Margin of Safety](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md) · [L1 · Slide 45 · MOS 图示](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
-> ↳ 前置：[Slide 41 · Therapeutic index = TD50/ED50](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md) · [Slide 43 · Therapeutic effect / Toxic effect 曲线](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
+> 🔗 **课件定位**：[L1 · Slide 44 · Margin of Safety](中英对照课件/lecture1.md) · [L1 · Slide 45 · MOS 图示](中英对照课件/lecture1.md)
+> ↳ 前置：[Slide 41 · Therapeutic index = TD50/ED50](中英对照课件/lecture1.md) · [Slide 43 · Therapeutic effect / Toxic effect 曲线](中英对照课件/lecture1.md)
 
 ## 试题6
 
@@ -133,8 +133,8 @@ Which of following is NOT correct for Ames test?
 
 > **✅ 答案 c** · 依据 **L1 p50–51**：his⁻ 菌株不能自行合成组氨酸，在**缺组氨酸培养基中死亡**；若化学物致突变使其**回复突变（reverse mutation）**为 his⁺，则菌**存活生长**。课件原文：*"the mutation caused by the chemical allows the bacteria to **regain the ability to synthesize histidine**"*。c 项把方向写反了。
 >
-> 🔗 **课件定位**：[L1 · Slide 50 · Example of bacteria mutagenesis test（Ames test）](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md) · [L1 · Slide 51 · Ames test example](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md) · [L1 · Slide 52 · Ames test example](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
-> ↳ 前置：[Slide 49 · Test for genotoxicity and mutagenicity](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
+> 🔗 **课件定位**：[L1 · Slide 50 · Example of bacteria mutagenesis test（Ames test）](中英对照课件/lecture1.md) · [L1 · Slide 51 · Ames test example](中英对照课件/lecture1.md) · [L1 · Slide 52 · Ames test example](中英对照课件/lecture1.md)
+> ↳ 前置：[Slide 49 · Test for genotoxicity and mutagenicity](中英对照课件/lecture1.md)
 
 ## 试题7
 
@@ -147,8 +147,8 @@ Why is the LDH assay used to determine cytotoxicity?
 
 > **✅ 答案 b** · 依据 **L1 p57 / p59–61**：`LDH (lactate dehydrogenase) release assay` 为体外细胞毒试验 —— 健康细胞 LDH 留在胞内，质膜受损后**泄漏到培养液**，胞外 LDH 活性（经 NADH + INT + diaphorase 显色为 formazan）随毒物浓度升高而升高，反映细胞损伤。
 >
-> 🔗 **课件定位**：[L1 · Slide 57 · LDH (lactate dehydrogenase) release assay](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md) · [L1 · Slide 59 · Example of cytotoxicity test](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md) · [L1 · Slide 60 · LDH release assay example](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md) · [L1 · Slide 61 · LDH release assay example（INT 显色）](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
-> ↳ 前置：[Slide 56 · Test for cytotoxicity](01_Projects/HSCI7005毒理学/中英对照课件/lecture1.md)
+> 🔗 **课件定位**：[L1 · Slide 57 · LDH (lactate dehydrogenase) release assay](中英对照课件/lecture1.md) · [L1 · Slide 59 · Example of cytotoxicity test](中英对照课件/lecture1.md) · [L1 · Slide 60 · LDH release assay example](中英对照课件/lecture1.md) · [L1 · Slide 61 · LDH release assay example（INT 显色）](中英对照课件/lecture1.md)
+> ↳ 前置：[Slide 56 · Test for cytotoxicity](中英对照课件/lecture1.md)
 
 ---
 
@@ -204,4 +204,4 @@ Why is the LDH assay used to determine cytotoxicity?
 
 ---
 
-相关：课程索引 · [quiz2](01_Projects/HSCI7005毒理学/quiz2.md) · [quiz3](01_Projects/HSCI7005毒理学/quiz3.md) · [quiz4](01_Projects/HSCI7005毒理学/quiz4.md) · [quiz5](01_Projects/HSCI7005毒理学/quiz5.md)
+相关：课程索引 · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)

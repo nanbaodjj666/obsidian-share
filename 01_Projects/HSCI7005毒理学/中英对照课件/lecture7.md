@@ -14,7 +14,7 @@ aliases:
 # HSCI7005 · Lecture 7. Blood and immune toxicity
 
 > **主体内容**：课件原文，逐页以原版截图呈现，共 55 页（未转文字）。
-> **插入内容**：与《[本科毒理学笔记](01_Projects/HSCI7005毒理学/本科毒理学笔记.md)》对应处，紧跟对应页插入笔记原文（中文），逐字照搬，未改写。
+> **插入内容**：与《[本科毒理学笔记](../本科毒理学笔记.md)》对应处，紧跟对应页插入笔记原文（中文），逐字照搬，未改写。
 > **截图位置**：`50_Assets/lecture图片/`；点击图片可放大查看原文。
 > **原课件**：Lecture 7. Blood and immune toxicity.pdf
 > ⚠️ 医学内容请以教材、指南与任课教师讲解为准复核，不可用于临床决策。
@@ -23,7 +23,7 @@ aliases:
 
 ## 本讲导读
 
-> 本讲共 **55 页**课件截图；与《[本科毒理学笔记](01_Projects/HSCI7005毒理学/本科毒理学笔记.md)》有 **5 处**对照。
+> 本讲共 **55 页**课件截图；与《[本科毒理学笔记](../本科毒理学笔记.md)》有 **5 处**对照。
 
 | 分区 | Slide 范围 |
 | --- | --- |
@@ -35,11 +35,11 @@ aliases:
 
 **本科笔记对照位置**
 
-- [Slide 2](01_Projects/HSCI7005毒理学/中英对照课件/lecture7.md) · 靶器官、蓄积部位、效应器官
-- [Slide 9](01_Projects/HSCI7005毒理学/中英对照课件/lecture7.md) · 生物学标志biomarker
-- [Slide 38](01_Projects/HSCI7005毒理学/中英对照课件/lecture7.md) · ①CYPs酶催化的羟化、环氧化、脱卤素、脱氢反应：黄曲霉…
-- [Slide 39](01_Projects/HSCI7005毒理学/中英对照课件/lecture7.md) · 二、影响细胞分裂过程
-- [Slide 47](01_Projects/HSCI7005毒理学/中英对照课件/lecture7.md) · 局部刺激试验和皮肤致敏试验
+- [Slide 2](lecture7.md) · 靶器官、蓄积部位、效应器官
+- [Slide 9](lecture7.md) · 生物学标志biomarker
+- [Slide 38](lecture7.md) · ①CYPs酶催化的羟化、环氧化、脱卤素、脱氢反应：黄曲霉…
+- [Slide 39](lecture7.md) · 二、影响细胞分裂过程
+- [Slide 47](lecture7.md) · 局部刺激试验和皮肤致敏试验
 
 ---
 
@@ -47,7 +47,7 @@ aliases:
 
 ### Slide 1
 
-![HSCI7005-L7-s01.jpg](50_Assets/lecture图片/HSCI7005-L7-s01.jpg)
+![HSCI7005-L7-s01.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s01.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ aliases:
 
 ### Slide 2
 
-![HSCI7005-L7-s02.jpg](50_Assets/lecture图片/HSCI7005-L7-s02.jpg)
+![HSCI7005-L7-s02.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s02.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -75,43 +75,43 @@ aliases:
 
 ### Slide 3
 
-![HSCI7005-L7-s03.jpg](50_Assets/lecture图片/HSCI7005-L7-s03.jpg)
+![HSCI7005-L7-s03.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s03.jpg)
 
 ---
 
 ### Slide 4
 
-![HSCI7005-L7-s04.jpg](50_Assets/lecture图片/HSCI7005-L7-s04.jpg)
+![HSCI7005-L7-s04.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s04.jpg)
 
 ---
 
 ### Slide 5
 
-![HSCI7005-L7-s05.jpg](50_Assets/lecture图片/HSCI7005-L7-s05.jpg)
+![HSCI7005-L7-s05.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s05.jpg)
 
 ---
 
 ### Slide 6
 
-![HSCI7005-L7-s06.jpg](50_Assets/lecture图片/HSCI7005-L7-s06.jpg)
+![HSCI7005-L7-s06.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s06.jpg)
 
 ---
 
 ### Slide 7
 
-![HSCI7005-L7-s07.jpg](50_Assets/lecture图片/HSCI7005-L7-s07.jpg)
+![HSCI7005-L7-s07.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s07.jpg)
 
 ---
 
 ### Slide 8
 
-![HSCI7005-L7-s08.jpg](50_Assets/lecture图片/HSCI7005-L7-s08.jpg)
+![HSCI7005-L7-s08.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s08.jpg)
 
 ---
 
 ### Slide 9
 
-![HSCI7005-L7-s09.jpg](50_Assets/lecture图片/HSCI7005-L7-s09.jpg)
+![HSCI7005-L7-s09.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s09.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -131,133 +131,133 @@ aliases:
 
 ### Slide 10
 
-![HSCI7005-L7-s10.jpg](50_Assets/lecture图片/HSCI7005-L7-s10.jpg)
+![HSCI7005-L7-s10.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s10.jpg)
 
 ---
 
 ### Slide 11
 
-![HSCI7005-L7-s11.jpg](50_Assets/lecture图片/HSCI7005-L7-s11.jpg)
+![HSCI7005-L7-s11.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s11.jpg)
 
 ---
 
 ### Slide 12
 
-![HSCI7005-L7-s12.jpg](50_Assets/lecture图片/HSCI7005-L7-s12.jpg)
+![HSCI7005-L7-s12.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s12.jpg)
 
 ---
 
 ### Slide 13
 
-![HSCI7005-L7-s13.jpg](50_Assets/lecture图片/HSCI7005-L7-s13.jpg)
+![HSCI7005-L7-s13.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s13.jpg)
 
 ---
 
 ### Slide 14
 
-![HSCI7005-L7-s14.jpg](50_Assets/lecture图片/HSCI7005-L7-s14.jpg)
+![HSCI7005-L7-s14.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s14.jpg)
 
 ---
 
 ### Slide 15
 
-![HSCI7005-L7-s15.jpg](50_Assets/lecture图片/HSCI7005-L7-s15.jpg)
+![HSCI7005-L7-s15.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s15.jpg)
 
 ---
 
 ### Slide 16
 
-![HSCI7005-L7-s16.jpg](50_Assets/lecture图片/HSCI7005-L7-s16.jpg)
+![HSCI7005-L7-s16.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s16.jpg)
 
 ---
 
 ### Slide 17
 
-![HSCI7005-L7-s17.jpg](50_Assets/lecture图片/HSCI7005-L7-s17.jpg)
+![HSCI7005-L7-s17.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s17.jpg)
 
 ---
 
 ### Slide 18
 
-![HSCI7005-L7-s18.jpg](50_Assets/lecture图片/HSCI7005-L7-s18.jpg)
+![HSCI7005-L7-s18.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s18.jpg)
 
 ---
 
 ### Slide 19
 
-![HSCI7005-L7-s19.jpg](50_Assets/lecture图片/HSCI7005-L7-s19.jpg)
+![HSCI7005-L7-s19.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s19.jpg)
 
 ---
 
 ### Slide 20
 
-![HSCI7005-L7-s20.jpg](50_Assets/lecture图片/HSCI7005-L7-s20.jpg)
+![HSCI7005-L7-s20.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s20.jpg)
 
 ---
 
 ### Slide 21
 
-![HSCI7005-L7-s21.jpg](50_Assets/lecture图片/HSCI7005-L7-s21.jpg)
+![HSCI7005-L7-s21.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s21.jpg)
 
 ---
 
 ### Slide 22
 
-![HSCI7005-L7-s22.jpg](50_Assets/lecture图片/HSCI7005-L7-s22.jpg)
+![HSCI7005-L7-s22.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s22.jpg)
 
 ---
 
 ### Slide 23
 
-![HSCI7005-L7-s23.jpg](50_Assets/lecture图片/HSCI7005-L7-s23.jpg)
+![HSCI7005-L7-s23.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s23.jpg)
 
 ---
 
 ### Slide 24
 
-![HSCI7005-L7-s24.jpg](50_Assets/lecture图片/HSCI7005-L7-s24.jpg)
+![HSCI7005-L7-s24.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s24.jpg)
 
 ---
 
 ### Slide 25
 
-![HSCI7005-L7-s25.jpg](50_Assets/lecture图片/HSCI7005-L7-s25.jpg)
+![HSCI7005-L7-s25.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s25.jpg)
 
 ---
 
 ### Slide 26
 
-![HSCI7005-L7-s26.jpg](50_Assets/lecture图片/HSCI7005-L7-s26.jpg)
+![HSCI7005-L7-s26.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s26.jpg)
 
 ---
 
 ### Slide 27
 
-![HSCI7005-L7-s27.jpg](50_Assets/lecture图片/HSCI7005-L7-s27.jpg)
+![HSCI7005-L7-s27.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s27.jpg)
 
 ---
 
 ### Slide 28
 
-![HSCI7005-L7-s28.jpg](50_Assets/lecture图片/HSCI7005-L7-s28.jpg)
+![HSCI7005-L7-s28.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s28.jpg)
 
 ---
 
 ### Slide 29
 
-![HSCI7005-L7-s29.jpg](50_Assets/lecture图片/HSCI7005-L7-s29.jpg)
+![HSCI7005-L7-s29.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s29.jpg)
 
 ---
 
 ### Slide 30
 
-![HSCI7005-L7-s30.jpg](50_Assets/lecture图片/HSCI7005-L7-s30.jpg)
+![HSCI7005-L7-s30.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s30.jpg)
 
 ---
 
 ### Slide 31
 
-![HSCI7005-L7-s31.jpg](50_Assets/lecture图片/HSCI7005-L7-s31.jpg)
+![HSCI7005-L7-s31.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s31.jpg)
 
 ---
 
@@ -265,43 +265,43 @@ aliases:
 
 ### Slide 32
 
-![HSCI7005-L7-s32.jpg](50_Assets/lecture图片/HSCI7005-L7-s32.jpg)
+![HSCI7005-L7-s32.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s32.jpg)
 
 ---
 
 ### Slide 33
 
-![HSCI7005-L7-s33.jpg](50_Assets/lecture图片/HSCI7005-L7-s33.jpg)
+![HSCI7005-L7-s33.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s33.jpg)
 
 ---
 
 ### Slide 34
 
-![HSCI7005-L7-s34.jpg](50_Assets/lecture图片/HSCI7005-L7-s34.jpg)
+![HSCI7005-L7-s34.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s34.jpg)
 
 ---
 
 ### Slide 35
 
-![HSCI7005-L7-s35.jpg](50_Assets/lecture图片/HSCI7005-L7-s35.jpg)
+![HSCI7005-L7-s35.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s35.jpg)
 
 ---
 
 ### Slide 36
 
-![HSCI7005-L7-s36.jpg](50_Assets/lecture图片/HSCI7005-L7-s36.jpg)
+![HSCI7005-L7-s36.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s36.jpg)
 
 ---
 
 ### Slide 37
 
-![HSCI7005-L7-s37.jpg](50_Assets/lecture图片/HSCI7005-L7-s37.jpg)
+![HSCI7005-L7-s37.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s37.jpg)
 
 ---
 
 ### Slide 38
 
-![HSCI7005-L7-s38.jpg](50_Assets/lecture图片/HSCI7005-L7-s38.jpg)
+![HSCI7005-L7-s38.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s38.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -311,7 +311,7 @@ aliases:
 
 ### Slide 39
 
-![HSCI7005-L7-s39.jpg](50_Assets/lecture图片/HSCI7005-L7-s39.jpg)
+![HSCI7005-L7-s39.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s39.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -331,49 +331,49 @@ aliases:
 
 ### Slide 40
 
-![HSCI7005-L7-s40.jpg](50_Assets/lecture图片/HSCI7005-L7-s40.jpg)
+![HSCI7005-L7-s40.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s40.jpg)
 
 ---
 
 ### Slide 41
 
-![HSCI7005-L7-s41.jpg](50_Assets/lecture图片/HSCI7005-L7-s41.jpg)
+![HSCI7005-L7-s41.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s41.jpg)
 
 ---
 
 ### Slide 42
 
-![HSCI7005-L7-s42.jpg](50_Assets/lecture图片/HSCI7005-L7-s42.jpg)
+![HSCI7005-L7-s42.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s42.jpg)
 
 ---
 
 ### Slide 43
 
-![HSCI7005-L7-s43.jpg](50_Assets/lecture图片/HSCI7005-L7-s43.jpg)
+![HSCI7005-L7-s43.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s43.jpg)
 
 ---
 
 ### Slide 44
 
-![HSCI7005-L7-s44.jpg](50_Assets/lecture图片/HSCI7005-L7-s44.jpg)
+![HSCI7005-L7-s44.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s44.jpg)
 
 ---
 
 ### Slide 45
 
-![HSCI7005-L7-s45.jpg](50_Assets/lecture图片/HSCI7005-L7-s45.jpg)
+![HSCI7005-L7-s45.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s45.jpg)
 
 ---
 
 ### Slide 46
 
-![HSCI7005-L7-s46.jpg](50_Assets/lecture图片/HSCI7005-L7-s46.jpg)
+![HSCI7005-L7-s46.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s46.jpg)
 
 ---
 
 ### Slide 47
 
-![HSCI7005-L7-s47.jpg](50_Assets/lecture图片/HSCI7005-L7-s47.jpg)
+![HSCI7005-L7-s47.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s47.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -409,37 +409,37 @@ aliases:
 
 ### Slide 48
 
-![HSCI7005-L7-s48.jpg](50_Assets/lecture图片/HSCI7005-L7-s48.jpg)
+![HSCI7005-L7-s48.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s48.jpg)
 
 ---
 
 ### Slide 49
 
-![HSCI7005-L7-s49.jpg](50_Assets/lecture图片/HSCI7005-L7-s49.jpg)
+![HSCI7005-L7-s49.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s49.jpg)
 
 ---
 
 ### Slide 50
 
-![HSCI7005-L7-s50.jpg](50_Assets/lecture图片/HSCI7005-L7-s50.jpg)
+![HSCI7005-L7-s50.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s50.jpg)
 
 ---
 
 ### Slide 51
 
-![HSCI7005-L7-s51.jpg](50_Assets/lecture图片/HSCI7005-L7-s51.jpg)
+![HSCI7005-L7-s51.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s51.jpg)
 
 ---
 
 ### Slide 52
 
-![HSCI7005-L7-s52.jpg](50_Assets/lecture图片/HSCI7005-L7-s52.jpg)
+![HSCI7005-L7-s52.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s52.jpg)
 
 ---
 
 ### Slide 53
 
-![HSCI7005-L7-s53.jpg](50_Assets/lecture图片/HSCI7005-L7-s53.jpg)
+![HSCI7005-L7-s53.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s53.jpg)
 
 ---
 
@@ -447,12 +447,12 @@ aliases:
 
 ### Slide 54
 
-![HSCI7005-L7-s54.jpg](50_Assets/lecture图片/HSCI7005-L7-s54.jpg)
+![HSCI7005-L7-s54.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s54.jpg)
 
 ---
 
 ### Slide 55
 
-![HSCI7005-L7-s55.jpg](50_Assets/lecture图片/HSCI7005-L7-s55.jpg)
+![HSCI7005-L7-s55.jpg](../../../50_Assets/lecture图片/HSCI7005-L7-s55.jpg)
 
 ---
