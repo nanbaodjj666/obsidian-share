@@ -23,7 +23,7 @@ aliases:
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
 > 相关：Lecture 4. Toxicokinetics (pharmacokinetics).pdf ·
-> lecture4-毒代动力学 · [课程索引](课程索引.md) · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz5](quiz5.md)
+> lecture4-毒代动力学 · 课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz5](quiz5.md)
 
 ---
 
@@ -216,7 +216,7 @@ Which of the following is NOT a correct description of excretion?
 
 ---
 
-相关：[课程索引](课程索引.md) · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz5](quiz5.md)
+相关：课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz5](quiz5.md)
 >
 > 🔗 **课件定位**：[L4 · Slide 19 · Facilitated diffusion (Passive transport) — Solute Carriers (SLCs)](中英对照课件/lecture4.md) · [L4 · Slide 53 · Fecal excretion — The biliary route](中英对照课件/lecture4.md)
 > ↳ 前置：[Slide 20 · SLCs in hepatic uptake of xenobiotics](中英对照课件/lecture4.md) · [Slide 47 · Excretion: the way out](中英对照课件/lecture4.md) · [Slide 51 · Urinary excretion（Nephron 四步）](中英对照课件/lecture4.md)

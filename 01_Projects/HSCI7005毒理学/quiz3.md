@@ -25,7 +25,7 @@ aliases:
 >
 > 相关：Lecture 3. Chemical and warfare toxic agents.pdf ·
 > lecture3-化学与战争毒物药剂 ·
-> [课程索引](课程索引.md) · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
+> 课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 
 ---
 
@@ -225,7 +225,7 @@ What is the toxic molecule responsible for the toxicity of Agent Orange used dur
 
 ---
 
-相关：[课程索引](课程索引.md) · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
+相关：课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 >
 > 🔗 **课件定位**：[L3 · Slide 76 · Agent orange during the Vietnam War](中英对照课件/lecture3.md)
 

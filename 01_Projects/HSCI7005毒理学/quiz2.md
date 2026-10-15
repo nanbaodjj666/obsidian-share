@@ -23,7 +23,7 @@ aliases:
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
 > 相关：Lecture 2. Risk assessment and toxic agents.pdf ·
-> lecture2-风险评估与毒物 · [课程索引](课程索引.md) · [quiz1](quiz1.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
+> lecture2-风险评估与毒物 · 课程索引 · [quiz1](quiz1.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 
 ---
 
@@ -200,7 +200,7 @@ How would you calculate the effective radiation dose (mSv) if you received 100 m
 
 ---
 
-相关：[课程索引](课程索引.md) · [quiz1](quiz1.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
+相关：课程索引 · [quiz1](quiz1.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 >
 > 🔗 **课件定位**：[L2 · Slide 50 · Effective dose: Measuring Health Effects](中英对照课件/lecture2.md) · [L2 · Slide 51 · Radiation weighting factor / tissue weighting factor](中英对照课件/lecture2.md)
 > ↳ 前置：[Slide 48 · Dose of radiation（Absorbed dose / Effective dose）](中英对照课件/lecture2.md) · [Slide 49 · Absorbed dose: Measuring Radiation Dose](中英对照课件/lecture2.md) · [Slide 52 · Effective radiation dose examples (mSv)](中英对照课件/lecture2.md)

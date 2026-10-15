@@ -24,7 +24,7 @@ aliases:
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
 > 相关：Lecture 5. Biotransformation and Developmental toxicity.pdf ·
-> lecture5-生物转化与发育毒性 · [课程索引](课程索引.md) · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md)
+> lecture5-生物转化与发育毒性 · 课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md)
 
 ---
 
@@ -251,7 +251,7 @@ What is the critical period for thalidomide teratogenicity?
 
 ---
 
-相关：[课程索引](课程索引.md) · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md)
+相关：课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md)
 >
 > 🔗 **课件定位**：[L5 · Slide 52 · Causes of the disaster（关键期 20–36 天）](中英对照课件/lecture5.md)
 > ↳ 前置：[Slide 49 · 3. Thalidomide](中英对照课件/lecture5.md) · [Slide 50 · Developmental toxicity of Thalidomide](中英对照课件/lecture5.md) · [Slide 51 · Developmental toxicity of Thalidomide — 致畸表现](中英对照课件/lecture5.md)
