@@ -23,7 +23,7 @@ aliases:
 > ✅ 试题1–8 已**全部录入**（含 1 道简答题）。
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
-> 相关：Lecture 6. Genotoxicity and chemical carcinogenesis.pdf · [lecture6](中英对照课件/lecture6.md) · 课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
+> 相关：Lecture 6. Genotoxicity and chemical carcinogenesis.pdf · [lecture6](中英对照课件/lecture6.md) · [课程索引](课程索引.md) · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 
 ---
 
@@ -290,5 +290,5 @@ What are the core gold-standard treatments for ER-α positive breast cancer?（�
 
 ---
 
-相关：课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
+相关：[课程索引](课程索引.md) · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 

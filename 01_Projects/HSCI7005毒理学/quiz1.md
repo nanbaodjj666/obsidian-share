@@ -23,7 +23,7 @@ aliases:
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
 > 相关：Lecture 1. General principles of toxicology.pdf ·
-> lecture1-毒理学一般原理 · 课程索引 · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
+> lecture1-毒理学一般原理 · [课程索引](课程索引.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 
 ---
 
@@ -204,4 +204,4 @@ Why is the LDH assay used to determine cytotoxicity?
 
 ---
 
-相关：课程索引 · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
+相关：[课程索引](课程索引.md) · [quiz2](quiz2.md) · [quiz3](quiz3.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
