@@ -32,13 +32,13 @@ aliases:
 <details>
 <summary>展开 7 张高清原始截图</summary>
 
-![HSCI7005-Quiz-Lecture4-原图1.jpg](../图片/HSCI7005-Quiz-Lecture4-原图1.jpg)
-![HSCI7005-Quiz-Lecture4-原图2.jpg](../图片/HSCI7005-Quiz-Lecture4-原图2.jpg)
-![HSCI7005-Quiz-Lecture4-原图3.jpg](../图片/HSCI7005-Quiz-Lecture4-原图3.jpg)
-![HSCI7005-Quiz-Lecture4-原图4.jpg](../图片/HSCI7005-Quiz-Lecture4-原图4.jpg)
-![HSCI7005-Quiz-Lecture4-原图5.jpg](../图片/HSCI7005-Quiz-Lecture4-原图5.jpg)
-![HSCI7005-Quiz-Lecture4-原图6.jpg](../图片/HSCI7005-Quiz-Lecture4-原图6.jpg)
-![HSCI7005-Quiz-Lecture4-原图7.jpg](../图片/HSCI7005-Quiz-Lecture4-原图7.jpg)
+![HSCI7005-Quiz-Lecture4-原图1.jpg](../../图片/HSCI7005-Quiz-Lecture4-原图1.jpg)
+![HSCI7005-Quiz-Lecture4-原图2.jpg](../../图片/HSCI7005-Quiz-Lecture4-原图2.jpg)
+![HSCI7005-Quiz-Lecture4-原图3.jpg](../../图片/HSCI7005-Quiz-Lecture4-原图3.jpg)
+![HSCI7005-Quiz-Lecture4-原图4.jpg](../../图片/HSCI7005-Quiz-Lecture4-原图4.jpg)
+![HSCI7005-Quiz-Lecture4-原图5.jpg](../../图片/HSCI7005-Quiz-Lecture4-原图5.jpg)
+![HSCI7005-Quiz-Lecture4-原图6.jpg](../../图片/HSCI7005-Quiz-Lecture4-原图6.jpg)
+![HSCI7005-Quiz-Lecture4-原图7.jpg](../../图片/HSCI7005-Quiz-Lecture4-原图7.jpg)
 
 </details>
 

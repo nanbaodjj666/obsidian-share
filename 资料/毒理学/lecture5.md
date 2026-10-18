@@ -60,7 +60,7 @@ aliases:
 
 ### Slide 1
 
-![HSCI7005-L5-s01.jpg](../图片/HSCI7005-L5-s01.jpg)
+![HSCI7005-L5-s01.jpg](../../图片/HSCI7005-L5-s01.jpg)
 
 ---
 
@@ -68,13 +68,13 @@ aliases:
 
 ### Slide 2
 
-![HSCI7005-L5-s02.jpg](../图片/HSCI7005-L5-s02.jpg)
+![HSCI7005-L5-s02.jpg](../../图片/HSCI7005-L5-s02.jpg)
 
 ---
 
 ### Slide 3
 
-![HSCI7005-L5-s03.jpg](../图片/HSCI7005-L5-s03.jpg)
+![HSCI7005-L5-s03.jpg](../../图片/HSCI7005-L5-s03.jpg)
 
 > ↳ 延伸参考：[试题1](quiz5.md)
 
@@ -82,19 +82,19 @@ aliases:
 
 ### Slide 4
 
-![HSCI7005-L5-s04.jpg](../图片/HSCI7005-L5-s04.jpg)
+![HSCI7005-L5-s04.jpg](../../图片/HSCI7005-L5-s04.jpg)
 
 ---
 
 ### Slide 5
 
-![HSCI7005-L5-s05.jpg](../图片/HSCI7005-L5-s05.jpg)
+![HSCI7005-L5-s05.jpg](../../图片/HSCI7005-L5-s05.jpg)
 
 ---
 
 ### Slide 6
 
-![HSCI7005-L5-s06.jpg](../图片/HSCI7005-L5-s06.jpg)
+![HSCI7005-L5-s06.jpg](../../图片/HSCI7005-L5-s06.jpg)
 
 > 📝 **相关习题**：[试题1](quiz5.md)
 
@@ -114,7 +114,7 @@ aliases:
 
 ### Slide 7
 
-![HSCI7005-L5-s07.jpg](../图片/HSCI7005-L5-s07.jpg)
+![HSCI7005-L5-s07.jpg](../../图片/HSCI7005-L5-s07.jpg)
 
 > ↳ 延伸参考：[试题1](quiz5.md)
 
@@ -122,7 +122,7 @@ aliases:
 
 ### Slide 8
 
-![HSCI7005-L5-s08.jpg](../图片/HSCI7005-L5-s08.jpg)
+![HSCI7005-L5-s08.jpg](../../图片/HSCI7005-L5-s08.jpg)
 
 > ↳ 延伸参考：[试题1](quiz5.md)
 
@@ -130,7 +130,7 @@ aliases:
 
 ### Slide 9
 
-![HSCI7005-L5-s09.jpg](../图片/HSCI7005-L5-s09.jpg)
+![HSCI7005-L5-s09.jpg](../../图片/HSCI7005-L5-s09.jpg)
 
 > ↳ 延伸参考：[试题3](quiz5.md)
 
@@ -140,25 +140,25 @@ aliases:
 >
 >
 >
-> ![毒理学笔记-图04.png](../图片/毒理学笔记-图04.png)
+> ![毒理学笔记-图04.png](../../图片/毒理学笔记-图04.png)
 
 ---
 
 ### Slide 10
 
-![HSCI7005-L5-s10.jpg](../图片/HSCI7005-L5-s10.jpg)
+![HSCI7005-L5-s10.jpg](../../图片/HSCI7005-L5-s10.jpg)
 
 ---
 
 ### Slide 11
 
-![HSCI7005-L5-s11.jpg](../图片/HSCI7005-L5-s11.jpg)
+![HSCI7005-L5-s11.jpg](../../图片/HSCI7005-L5-s11.jpg)
 
 ---
 
 ### Slide 12
 
-![HSCI7005-L5-s12.jpg](../图片/HSCI7005-L5-s12.jpg)
+![HSCI7005-L5-s12.jpg](../../图片/HSCI7005-L5-s12.jpg)
 
 > ↳ 延伸参考：[试题3](quiz5.md)
 
@@ -166,7 +166,7 @@ aliases:
 
 ### Slide 13
 
-![HSCI7005-L5-s13.jpg](../图片/HSCI7005-L5-s13.jpg)
+![HSCI7005-L5-s13.jpg](../../图片/HSCI7005-L5-s13.jpg)
 
 > ↳ 延伸参考：[试题2](quiz5.md)
 
@@ -178,7 +178,7 @@ aliases:
 
 ### Slide 14
 
-![HSCI7005-L5-s14.jpg](../图片/HSCI7005-L5-s14.jpg)
+![HSCI7005-L5-s14.jpg](../../图片/HSCI7005-L5-s14.jpg)
 
 > ↳ 延伸参考：[试题2](quiz5.md)
 
@@ -186,13 +186,13 @@ aliases:
 
 ### Slide 15
 
-![HSCI7005-L5-s15.jpg](../图片/HSCI7005-L5-s15.jpg)
+![HSCI7005-L5-s15.jpg](../../图片/HSCI7005-L5-s15.jpg)
 
 ---
 
 ### Slide 16
 
-![HSCI7005-L5-s16.jpg](../图片/HSCI7005-L5-s16.jpg)
+![HSCI7005-L5-s16.jpg](../../图片/HSCI7005-L5-s16.jpg)
 
 > 📝 **相关习题**：[试题2](quiz5.md)
 > ↳ 延伸参考：[试题4](quiz5.md)
@@ -213,7 +213,7 @@ aliases:
 
 ### Slide 17
 
-![HSCI7005-L5-s17.jpg](../图片/HSCI7005-L5-s17.jpg)
+![HSCI7005-L5-s17.jpg](../../图片/HSCI7005-L5-s17.jpg)
 
 > 📝 **相关习题**：[试题4](quiz5.md)
 
@@ -221,7 +221,7 @@ aliases:
 
 ### Slide 18
 
-![HSCI7005-L5-s18.jpg](../图片/HSCI7005-L5-s18.jpg)
+![HSCI7005-L5-s18.jpg](../../图片/HSCI7005-L5-s18.jpg)
 
 > ↳ 延伸参考：[试题2](quiz5.md) · [试题4](quiz5.md)
 
@@ -229,7 +229,7 @@ aliases:
 
 ### Slide 19
 
-![HSCI7005-L5-s19.jpg](../图片/HSCI7005-L5-s19.jpg)
+![HSCI7005-L5-s19.jpg](../../图片/HSCI7005-L5-s19.jpg)
 
 > 📝 **相关习题**：[试题2](quiz5.md) · [试题4](quiz5.md)
 
@@ -237,7 +237,7 @@ aliases:
 
 ### Slide 20
 
-![HSCI7005-L5-s20.jpg](../图片/HSCI7005-L5-s20.jpg)
+![HSCI7005-L5-s20.jpg](../../图片/HSCI7005-L5-s20.jpg)
 
 > 📝 **相关习题**：[试题2](quiz5.md)
 
@@ -245,7 +245,7 @@ aliases:
 
 ### Slide 21
 
-![HSCI7005-L5-s21.jpg](../图片/HSCI7005-L5-s21.jpg)
+![HSCI7005-L5-s21.jpg](../../图片/HSCI7005-L5-s21.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -255,19 +255,19 @@ aliases:
 
 ### Slide 22
 
-![HSCI7005-L5-s22.jpg](../图片/HSCI7005-L5-s22.jpg)
+![HSCI7005-L5-s22.jpg](../../图片/HSCI7005-L5-s22.jpg)
 
 ---
 
 ### Slide 23
 
-![HSCI7005-L5-s23.jpg](../图片/HSCI7005-L5-s23.jpg)
+![HSCI7005-L5-s23.jpg](../../图片/HSCI7005-L5-s23.jpg)
 
 ---
 
 ### Slide 24
 
-![HSCI7005-L5-s24.jpg](../图片/HSCI7005-L5-s24.jpg)
+![HSCI7005-L5-s24.jpg](../../图片/HSCI7005-L5-s24.jpg)
 
 > 📝 **相关习题**：[试题3](quiz5.md)
 
@@ -287,7 +287,7 @@ aliases:
 
 ### Slide 25
 
-![HSCI7005-L5-s25.jpg](../图片/HSCI7005-L5-s25.jpg)
+![HSCI7005-L5-s25.jpg](../../图片/HSCI7005-L5-s25.jpg)
 
 > 📝 **相关习题**：[试题3](quiz5.md)
 
@@ -295,7 +295,7 @@ aliases:
 
 ### Slide 26
 
-![HSCI7005-L5-s26.jpg](../图片/HSCI7005-L5-s26.jpg)
+![HSCI7005-L5-s26.jpg](../../图片/HSCI7005-L5-s26.jpg)
 
 > ↳ 延伸参考：[试题3](quiz5.md)
 
@@ -303,7 +303,7 @@ aliases:
 
 ### Slide 27
 
-![HSCI7005-L5-s27.jpg](../图片/HSCI7005-L5-s27.jpg)
+![HSCI7005-L5-s27.jpg](../../图片/HSCI7005-L5-s27.jpg)
 
 ---
 
@@ -311,13 +311,13 @@ aliases:
 
 ### Slide 28
 
-![HSCI7005-L5-s28.jpg](../图片/HSCI7005-L5-s28.jpg)
+![HSCI7005-L5-s28.jpg](../../图片/HSCI7005-L5-s28.jpg)
 
 ---
 
 ### Slide 29
 
-![HSCI7005-L5-s29.jpg](../图片/HSCI7005-L5-s29.jpg)
+![HSCI7005-L5-s29.jpg](../../图片/HSCI7005-L5-s29.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -363,43 +363,43 @@ aliases:
 
 ### Slide 30
 
-![HSCI7005-L5-s30.jpg](../图片/HSCI7005-L5-s30.jpg)
+![HSCI7005-L5-s30.jpg](../../图片/HSCI7005-L5-s30.jpg)
 
 ---
 
 ### Slide 31
 
-![HSCI7005-L5-s31.jpg](../图片/HSCI7005-L5-s31.jpg)
+![HSCI7005-L5-s31.jpg](../../图片/HSCI7005-L5-s31.jpg)
 
 ---
 
 ### Slide 32
 
-![HSCI7005-L5-s32.jpg](../图片/HSCI7005-L5-s32.jpg)
+![HSCI7005-L5-s32.jpg](../../图片/HSCI7005-L5-s32.jpg)
 
 ---
 
 ### Slide 33
 
-![HSCI7005-L5-s33.jpg](../图片/HSCI7005-L5-s33.jpg)
+![HSCI7005-L5-s33.jpg](../../图片/HSCI7005-L5-s33.jpg)
 
 ---
 
 ### Slide 34
 
-![HSCI7005-L5-s34.jpg](../图片/HSCI7005-L5-s34.jpg)
+![HSCI7005-L5-s34.jpg](../../图片/HSCI7005-L5-s34.jpg)
 
 ---
 
 ### Slide 35
 
-![HSCI7005-L5-s35.jpg](../图片/HSCI7005-L5-s35.jpg)
+![HSCI7005-L5-s35.jpg](../../图片/HSCI7005-L5-s35.jpg)
 
 ---
 
 ### Slide 36
 
-![HSCI7005-L5-s36.jpg](../图片/HSCI7005-L5-s36.jpg)
+![HSCI7005-L5-s36.jpg](../../图片/HSCI7005-L5-s36.jpg)
 
 > 📝 **相关习题**：[试题5](quiz5.md)
 
@@ -409,21 +409,21 @@ aliases:
 >
 > **不同发育阶段的发育毒作用特点**
 >
-> ![毒理学笔记-图27.png](../图片/毒理学笔记-图27.png)
+> ![毒理学笔记-图27.png](../../图片/毒理学笔记-图27.png)
 >
 > **发育毒性作用的影响因素**
 >
-> ![毒理学笔记-图28.png](../图片/毒理学笔记-图28.png)
+> ![毒理学笔记-图28.png](../../图片/毒理学笔记-图28.png)
 >
 > **发育毒性作用机制**
 >
-> ![毒理学笔记-图29.png](../图片/毒理学笔记-图29.png)
+> ![毒理学笔记-图29.png](../../图片/毒理学笔记-图29.png)
 
 ---
 
 ### Slide 37
 
-![HSCI7005-L5-s37.jpg](../图片/HSCI7005-L5-s37.jpg)
+![HSCI7005-L5-s37.jpg](../../图片/HSCI7005-L5-s37.jpg)
 
 > ↳ 延伸参考：[试题5](quiz5.md)
 
@@ -431,7 +431,7 @@ aliases:
 
 ### Slide 38
 
-![HSCI7005-L5-s38.jpg](../图片/HSCI7005-L5-s38.jpg)
+![HSCI7005-L5-s38.jpg](../../图片/HSCI7005-L5-s38.jpg)
 
 > ↳ 延伸参考：[试题5](quiz5.md)
 
@@ -439,7 +439,7 @@ aliases:
 
 ### Slide 39
 
-![HSCI7005-L5-s39.jpg](../图片/HSCI7005-L5-s39.jpg)
+![HSCI7005-L5-s39.jpg](../../图片/HSCI7005-L5-s39.jpg)
 
 > 📝 **相关习题**：[试题5](quiz5.md)
 
@@ -447,7 +447,7 @@ aliases:
 
 ### Slide 40
 
-![HSCI7005-L5-s40.jpg](../图片/HSCI7005-L5-s40.jpg)
+![HSCI7005-L5-s40.jpg](../../图片/HSCI7005-L5-s40.jpg)
 
 > ↳ 延伸参考：[试题5](quiz5.md)
 
@@ -455,7 +455,7 @@ aliases:
 
 ### Slide 41
 
-![HSCI7005-L5-s41.jpg](../图片/HSCI7005-L5-s41.jpg)
+![HSCI7005-L5-s41.jpg](../../图片/HSCI7005-L5-s41.jpg)
 
 > [!note] 本科毒理学笔记 · 对应原文
 >
@@ -464,7 +464,7 @@ aliases:
 > **动物整体生殖毒性试验**
 > - 三段生殖毒性试验
 >
-> ![毒理学笔记-图30.png](../图片/毒理学笔记-图30.png)
+> ![毒理学笔记-图30.png](../../图片/毒理学笔记-图30.png)
 > - 一代生殖毒性试验
 >
 > 评价受试物对亲代青春期前后和常年动物亚慢性暴露的影响
@@ -486,19 +486,19 @@ aliases:
 
 ### Slide 42
 
-![HSCI7005-L5-s42.jpg](../图片/HSCI7005-L5-s42.jpg)
+![HSCI7005-L5-s42.jpg](../../图片/HSCI7005-L5-s42.jpg)
 
 ---
 
 ### Slide 43
 
-![HSCI7005-L5-s43.jpg](../图片/HSCI7005-L5-s43.jpg)
+![HSCI7005-L5-s43.jpg](../../图片/HSCI7005-L5-s43.jpg)
 
 ---
 
 ### Slide 44
 
-![HSCI7005-L5-s44.jpg](../图片/HSCI7005-L5-s44.jpg)
+![HSCI7005-L5-s44.jpg](../../图片/HSCI7005-L5-s44.jpg)
 
 > ↳ 延伸参考：[试题6](quiz5.md)
 
@@ -506,7 +506,7 @@ aliases:
 
 ### Slide 45
 
-![HSCI7005-L5-s45.jpg](../图片/HSCI7005-L5-s45.jpg)
+![HSCI7005-L5-s45.jpg](../../图片/HSCI7005-L5-s45.jpg)
 
 > ↳ 延伸参考：[试题6](quiz5.md)
 
@@ -514,7 +514,7 @@ aliases:
 
 ### Slide 46
 
-![HSCI7005-L5-s46.jpg](../图片/HSCI7005-L5-s46.jpg)
+![HSCI7005-L5-s46.jpg](../../图片/HSCI7005-L5-s46.jpg)
 
 > 📝 **相关习题**：[试题6](quiz5.md)
 
@@ -522,13 +522,13 @@ aliases:
 
 ### Slide 47
 
-![HSCI7005-L5-s47.jpg](../图片/HSCI7005-L5-s47.jpg)
+![HSCI7005-L5-s47.jpg](../../图片/HSCI7005-L5-s47.jpg)
 
 ---
 
 ### Slide 48
 
-![HSCI7005-L5-s48.jpg](../图片/HSCI7005-L5-s48.jpg)
+![HSCI7005-L5-s48.jpg](../../图片/HSCI7005-L5-s48.jpg)
 
 > 📝 **相关习题**：[试题6](quiz5.md)
 
@@ -536,7 +536,7 @@ aliases:
 
 ### Slide 49
 
-![HSCI7005-L5-s49.jpg](../图片/HSCI7005-L5-s49.jpg)
+![HSCI7005-L5-s49.jpg](../../图片/HSCI7005-L5-s49.jpg)
 
 > ↳ 延伸参考：[试题7](quiz5.md)
 
@@ -544,7 +544,7 @@ aliases:
 
 ### Slide 50
 
-![HSCI7005-L5-s50.jpg](../图片/HSCI7005-L5-s50.jpg)
+![HSCI7005-L5-s50.jpg](../../图片/HSCI7005-L5-s50.jpg)
 
 > ↳ 延伸参考：[试题7](quiz5.md)
 
@@ -552,7 +552,7 @@ aliases:
 
 ### Slide 51
 
-![HSCI7005-L5-s51.jpg](../图片/HSCI7005-L5-s51.jpg)
+![HSCI7005-L5-s51.jpg](../../图片/HSCI7005-L5-s51.jpg)
 
 > ↳ 延伸参考：[试题7](quiz5.md)
 
@@ -560,7 +560,7 @@ aliases:
 
 ### Slide 52
 
-![HSCI7005-L5-s52.jpg](../图片/HSCI7005-L5-s52.jpg)
+![HSCI7005-L5-s52.jpg](../../图片/HSCI7005-L5-s52.jpg)
 
 > 📝 **相关习题**：[试题7](quiz5.md)
 
@@ -568,36 +568,36 @@ aliases:
 
 ### Slide 53
 
-![HSCI7005-L5-s53.jpg](../图片/HSCI7005-L5-s53.jpg)
+![HSCI7005-L5-s53.jpg](../../图片/HSCI7005-L5-s53.jpg)
 
 ---
 
 ### Slide 54
 
-![HSCI7005-L5-s54.jpg](../图片/HSCI7005-L5-s54.jpg)
+![HSCI7005-L5-s54.jpg](../../图片/HSCI7005-L5-s54.jpg)
 
 ---
 
 ### Slide 55
 
-![HSCI7005-L5-s55.jpg](../图片/HSCI7005-L5-s55.jpg)
+![HSCI7005-L5-s55.jpg](../../图片/HSCI7005-L5-s55.jpg)
 
 ---
 
 ### Slide 56
 
-![HSCI7005-L5-s56.jpg](../图片/HSCI7005-L5-s56.jpg)
+![HSCI7005-L5-s56.jpg](../../图片/HSCI7005-L5-s56.jpg)
 
 ---
 
 ### Slide 57
 
-![HSCI7005-L5-s57.jpg](../图片/HSCI7005-L5-s57.jpg)
+![HSCI7005-L5-s57.jpg](../../图片/HSCI7005-L5-s57.jpg)
 
 ---
 
 ### Slide 58
 
-![HSCI7005-L5-s58.jpg](../图片/HSCI7005-L5-s58.jpg)
+![HSCI7005-L5-s58.jpg](../../图片/HSCI7005-L5-s58.jpg)
 
 ---

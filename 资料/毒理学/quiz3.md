@@ -31,7 +31,7 @@ aliases:
 
 ## 原图存档
 
-![HSCI7005-Quiz-Lecture3-原图.jpg](../图片/HSCI7005-Quiz-Lecture3-原图.jpg)
+![HSCI7005-Quiz-Lecture3-原图.jpg](../../图片/HSCI7005-Quiz-Lecture3-原图.jpg)
 
 ---
 

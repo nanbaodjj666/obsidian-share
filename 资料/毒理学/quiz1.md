@@ -32,14 +32,14 @@ aliases:
 <details>
 <summary>展开 8 张原始截图（1206 × 2622）</summary>
 
-![HSCI7005-Quiz-Lecture1-原图1.jpg](../图片/HSCI7005-Quiz-Lecture1-原图1.jpg)
-![HSCI7005-Quiz-Lecture1-原图2.jpg](../图片/HSCI7005-Quiz-Lecture1-原图2.jpg)
-![HSCI7005-Quiz-Lecture1-原图3.jpg](../图片/HSCI7005-Quiz-Lecture1-原图3.jpg)
-![HSCI7005-Quiz-Lecture1-原图4.jpg](../图片/HSCI7005-Quiz-Lecture1-原图4.jpg)
-![HSCI7005-Quiz-Lecture1-原图5.jpg](../图片/HSCI7005-Quiz-Lecture1-原图5.jpg)
-![HSCI7005-Quiz-Lecture1-原图6.jpg](../图片/HSCI7005-Quiz-Lecture1-原图6.jpg)
-![HSCI7005-Quiz-Lecture1-原图7.jpg](../图片/HSCI7005-Quiz-Lecture1-原图7.jpg)
-![HSCI7005-Quiz-Lecture1-原图8.jpg](../图片/HSCI7005-Quiz-Lecture1-原图8.jpg)
+![HSCI7005-Quiz-Lecture1-原图1.jpg](../../图片/HSCI7005-Quiz-Lecture1-原图1.jpg)
+![HSCI7005-Quiz-Lecture1-原图2.jpg](../../图片/HSCI7005-Quiz-Lecture1-原图2.jpg)
+![HSCI7005-Quiz-Lecture1-原图3.jpg](../../图片/HSCI7005-Quiz-Lecture1-原图3.jpg)
+![HSCI7005-Quiz-Lecture1-原图4.jpg](../../图片/HSCI7005-Quiz-Lecture1-原图4.jpg)
+![HSCI7005-Quiz-Lecture1-原图5.jpg](../../图片/HSCI7005-Quiz-Lecture1-原图5.jpg)
+![HSCI7005-Quiz-Lecture1-原图6.jpg](../../图片/HSCI7005-Quiz-Lecture1-原图6.jpg)
+![HSCI7005-Quiz-Lecture1-原图7.jpg](../../图片/HSCI7005-Quiz-Lecture1-原图7.jpg)
+![HSCI7005-Quiz-Lecture1-原图8.jpg](../../图片/HSCI7005-Quiz-Lecture1-原图8.jpg)
 
 </details>
 
@@ -104,7 +104,7 @@ Which of the following is NOT about toxicokinetics?
 
 See figure below and answer the following questions.
 
-![HSCI7005-L1-Quiz-Q5-dose-response.png](../图片/HSCI7005-L1-Quiz-Q5-dose-response.png)
+![HSCI7005-L1-Quiz-Q5-dose-response.png](../../图片/HSCI7005-L1-Quiz-Q5-dose-response.png)
 
 （Drug A: ED99=12 mg/kg, TD1=12 mg/kg. Drug B: ED99=12 mg/kg, TD1=6 mg/kg）
 

@@ -32,10 +32,10 @@ aliases:
 <details>
 <summary>展开 4 张原始截图（1206 × 2622）</summary>
 
-![HSCI7005-Quiz-Lecture2-原图1.jpg](../图片/HSCI7005-Quiz-Lecture2-原图1.jpg)
-![HSCI7005-Quiz-Lecture2-原图2.jpg](../图片/HSCI7005-Quiz-Lecture2-原图2.jpg)
-![HSCI7005-Quiz-Lecture2-原图3.jpg](../图片/HSCI7005-Quiz-Lecture2-原图3.jpg)
-![HSCI7005-Quiz-Lecture2-原图4.jpg](../图片/HSCI7005-Quiz-Lecture2-原图4.jpg)
+![HSCI7005-Quiz-Lecture2-原图1.jpg](../../图片/HSCI7005-Quiz-Lecture2-原图1.jpg)
+![HSCI7005-Quiz-Lecture2-原图2.jpg](../../图片/HSCI7005-Quiz-Lecture2-原图2.jpg)
+![HSCI7005-Quiz-Lecture2-原图3.jpg](../../图片/HSCI7005-Quiz-Lecture2-原图3.jpg)
+![HSCI7005-Quiz-Lecture2-原图4.jpg](../../图片/HSCI7005-Quiz-Lecture2-原图4.jpg)
 
 </details>
 
