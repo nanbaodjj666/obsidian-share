@@ -19,7 +19,7 @@ aliases:
 
 > 来源：手机端习题 App「回顾」界面长截图 `HSCI7005-Quiz-Lecture3-原图.jpg`（1260 × 15927，原为一次复习卷，8 题 / 17 分钟）。
 > 正文为逐题文字化转录，已与完整版原文逐字核对。选项后的 **【已选】** 表示截图中该选项被勾选（**不代表判对**）。
-> 🆕 **每题末附「课件定位」** —— 双链直达中英对照课件 [Lecture 3](lecture3.md) 中**对应知识点所在的 Slide**，即该文件里的 `### Slide N` 小节，点击可跳到那一页原版截图。
+> 🆕 **每题末附「课件定位」** —— 双链直达中英对照课件 [Lecture 3](lecture3-化学与战争毒物药剂.html) 中**对应知识点所在的 Slide**，即该文件里的 `### Slide N` 小节，点击可跳到那一页原版截图。
 > **正确选项以粗体标出**，答案依据 Lecture 3 英文原版课件（`原版课件/Lecture 3. Chemical and warfare toxic agents.pdf`）逐题核对。
 > 医学内容请以课件原文、教材（Casarett & Doull's Toxicology）与任课教师讲解为准复核，不可用于临床决策。
 >
@@ -47,8 +47,8 @@ Which cells in lung tissue are mainly involved in asbestos-related scar tissue f
 > **✅ 答案 a** · 依据 **L3 p15–p20**：*"Alveolar macrophages are the first immune cells to encounter incoming pathogens and pollutants"*（p15）；石棉纤维被肺泡巨噬细胞吞噬后发生 **frustrated phagocytosis（挫败性吞噬）→ Scar tissues**（p16）；p20 明言 *"the lung **macrophages** tries unsuccessfully to remove the asbestos. This in turn leads to lung damage and **scar tissue**"*。故课件把瘢痕形成归因于**巨噬细胞**清除失败。
 > 📌 本题作答正确。
 >
-> 🔗 **课件定位**：[L3 · Slide 16 · Lung alveolar macrophages for asbestos clearance（frustrated phagocytosis）](lecture3.md) · [L3 · Slide 20 · Asbestosis symptoms](lecture3.md)
-> ↳ 前置：[Slide 15 · Alveoli and alveolar macrophages](lecture3.md) · [Slide 17 · Asbestos fibers in human lung tissue](lecture3.md) · [Slide 19 · Asbestosis](lecture3.md)
+> 🔗 **课件定位**：[L3 · Slide 16 · Lung alveolar macrophages for asbestos clearance（frustrated phagocytosis）](lecture3-化学与战争毒物药剂.html#s16) · [L3 · Slide 20 · Asbestosis symptoms](lecture3-化学与战争毒物药剂.html#s20)
+> ↳ 前置：[Slide 15 · Alveoli and alveolar macrophages](lecture3-化学与战争毒物药剂.html#s15) · [Slide 17 · Asbestos fibers in human lung tissue](lecture3-化学与战争毒物药剂.html#s17) · [Slide 19 · Asbestosis](lecture3-化学与战争毒物药剂.html#s19)
 
 ## 试题2
 
@@ -62,8 +62,8 @@ What type of tumor is primarily developed due to the asbestos exposure at work?
 > **✅ 答案 b** · 依据 **L3 p23**：*"**Mesothelioma**: a malignant tumor that is caused by inhaled asbestos fibers and forms in the lining of the lungs. **Most cases of mesothelioma result from exposure to asbestos at work.**"*
 > 📌 本题作答正确。
 >
-> 🔗 **课件定位**：[L3 · Slide 23 · Asbestos and cancer（Mesothelioma）](lecture3.md)
-> ↳ 前置：[Slide 18 · Asbestos and diseases](lecture3.md) · [Slide 24 · Disease latency and treatment](lecture3.md)
+> 🔗 **课件定位**：[L3 · Slide 23 · Asbestos and cancer（Mesothelioma）](lecture3-化学与战争毒物药剂.html#s23)
+> ↳ 前置：[Slide 18 · Asbestos and diseases](lecture3-化学与战争毒物药剂.html#s18) · [Slide 24 · Disease latency and treatment](lecture3-化学与战争毒物药剂.html#s24)
 
 ## 试题3
 
@@ -78,8 +78,8 @@ Which of the following is NOT a correct description for active ingredient in pes
 > b 依据 p33（*"Active ingredients must be identified by name … together with its percentage by weight"*）；c 依据 p32；d 的例子出自 p33 列表（Aldrin/Dieldrin、DDT 等）。
 > 📌 本题作答正确。
 >
-> 🔗 **课件定位**：[L3 · Slide 32 · Chemical composition of pesticides](lecture3.md)
-> ↳ 前置：[Slide 33 · Active Ingredients](lecture3.md) · [Slide 34 · Inert Ingredients](lecture3.md) · [Slide 35 · Pesticide ingredients](lecture3.md)
+> 🔗 **课件定位**：[L3 · Slide 32 · Chemical composition of pesticides](lecture3-化学与战争毒物药剂.html#s32)
+> ↳ 前置：[Slide 33 · Active Ingredients](lecture3-化学与战争毒物药剂.html#s33) · [Slide 34 · Inert Ingredients](lecture3-化学与战争毒物药剂.html#s34) · [Slide 35 · Pesticide ingredients](lecture3-化学与战争毒物药剂.html#s35)
 
 ## 试题4
 
@@ -94,8 +94,8 @@ Which of the following is NOT a correct description for organophosphate nerve ag
 > b 依据 p72–73（Sarin、Vx 案例）；c 依据 p50（*"Acetylcholine thus builds up and continues to act so that … muscle contractions do not stop"*）；d 依据 p51（Oxime 复能剂 + Atropine）。
 > 📌 本题作答正确。
 >
-> 🔗 **课件定位**：[L3 · Slide 46 · 1. Nerve agents](lecture3.md) · [L3 · Slide 50 · Mechanism of nerve agents](lecture3.md)
-> ↳ 前置：[Slide 47 · Acetylcholine, a neurotransmitter at neuromuscular junctions](lecture3.md) · [Slide 48 · Acetylcholine, acetylcholinesterase and AChR](lecture3.md) · [Slide 49 · Organophosphate nerve agents are acetylcholinesterase inhibitors](lecture3.md) · [Slide 51 · Treatment for nerve agent exposure](lecture3.md)
+> 🔗 **课件定位**：[L3 · Slide 46 · 1. Nerve agents](lecture3-化学与战争毒物药剂.html#s46) · [L3 · Slide 50 · Mechanism of nerve agents](lecture3-化学与战争毒物药剂.html#s50)
+> ↳ 前置：[Slide 47 · Acetylcholine, a neurotransmitter at neuromuscular junctions](lecture3-化学与战争毒物药剂.html#s47) · [Slide 48 · Acetylcholine, acetylcholinesterase and AChR](lecture3-化学与战争毒物药剂.html#s48) · [Slide 49 · Organophosphate nerve agents are acetylcholinesterase inhibitors](lecture3-化学与战争毒物药剂.html#s49) · [Slide 51 · Treatment for nerve agent exposure](lecture3-化学与战争毒物药剂.html#s51)
 
 ## 试题5
 
@@ -109,8 +109,8 @@ Which molecule in cells is affected by vesicants (blister agents)?
 > **✅ 答案 b** · 依据 **L3 p54–55**：*"Nitrogen mustards: **DNA alkylating agents** … Formation of DNA cross links; Most reactive sites: The N7 position of guanine and the N3 position of adenine"*；*"Nitrogen mustards cause **DNA damage** and are highly cytotoxic."* 糜烂性毒剂的靶分子是 **DNA**。
 > 📌 本题作答正确。
 >
-> 🔗 **课件定位**：[L3 · Slide 54 · Nitrogen mustards: DNA alkylating agents](lecture3.md) · [L3 · Slide 55 · Mechanism of vesicants](lecture3.md)
-> ↳ 前置：[Slide 52 · 2. Vesicants (blister agents)](lecture3.md) · [Slide 53 · German mustard gas attacks during WWI](lecture3.md) · [Slide 56 · Treatment for vesicants](lecture3.md)
+> 🔗 **课件定位**：[L3 · Slide 54 · Nitrogen mustards: DNA alkylating agents](lecture3-化学与战争毒物药剂.html#s54) · [L3 · Slide 55 · Mechanism of vesicants](lecture3-化学与战争毒物药剂.html#s55)
+> ↳ 前置：[Slide 52 · 2. Vesicants (blister agents)](lecture3-化学与战争毒物药剂.html#s52) · [Slide 53 · German mustard gas attacks during WWI](lecture3-化学与战争毒物药剂.html#s53) · [Slide 56 · Treatment for vesicants](lecture3-化学与战争毒物药剂.html#s56)
 
 ## 试题6
 
@@ -124,8 +124,8 @@ Hydroxocobalamin can be used as an antidote for the treatment of ________ poison
 > **✅ 答案 a** · 依据 **L3 p57 / p61**：*"**Hydroxocobalamin** (vitamin B12a): hydroxocobalamin + **cyanide** = cyanocobalamin (**nontoxic**)"*。羟钴胺是**氰化物**中毒的解毒剂（同页另有亚硝酸钠 + 硫代硫酸钠方案）。
 > 📌 本题作答正确。
 >
-> 🔗 **课件定位**：[L3 · Slide 61 · Hydroxocobalamin antidote for cyanide poisoning](lecture3.md)
-> ↳ 前置：[Slide 57 · Blood agents (cyanogenic agents)](lecture3.md) · [Slide 58 · Mechanism of cyanide blood agents](lecture3.md) · [Slide 60 · Treatment for cyanide blood agents](lecture3.md)
+> 🔗 **课件定位**：[L3 · Slide 61 · Hydroxocobalamin antidote for cyanide poisoning](lecture3-化学与战争毒物药剂.html#s61)
+> ↳ 前置：[Slide 57 · Blood agents (cyanogenic agents)](lecture3-化学与战争毒物药剂.html#s57) · [Slide 58 · Mechanism of cyanide blood agents](lecture3-化学与战争毒物药剂.html#s58) · [Slide 60 · Treatment for cyanide blood agents](lecture3-化学与战争毒物药剂.html#s60)
 
 ## 试题7
 
@@ -139,8 +139,8 @@ What is the mechanism of antitoxin antibody in the treatment of anthrax toxin ex
 > **✅ 答案 d** · 依据 **L3 p65–p68**：炭疽毒素是由 *Bacillus anthracis* 分泌的三蛋白毒素（PA + EF + LF），经细胞表面进入细胞致病（p65–66）；治疗用 *"Antitoxins: injectable **antibody** medications to **neutralize anthrax toxins in the body**"*（p68，如 Obiltoxaximab / Anthim）。抗体**中和毒素本身**、阻断其进入细胞 —— 而非杀菌（a）、抑制毒素生成（b）或增强免疫（c）。
 > 📌 本题作答正确。
 >
-> 🔗 **课件定位**：[L3 · Slide 68 · Treatment for anthrax toxin](lecture3.md)
-> ↳ 前置：[Slide 65 · Anthrax toxin, a biological warfare agent](lecture3.md) · [Slide 66 · Anthrax toxin cell entry](lecture3.md) · [Slide 67 · Health effects of anthrax toxin](lecture3.md)
+> 🔗 **课件定位**：[L3 · Slide 68 · Treatment for anthrax toxin](lecture3-化学与战争毒物药剂.html#s68)
+> ↳ 前置：[Slide 65 · Anthrax toxin, a biological warfare agent](lecture3-化学与战争毒物药剂.html#s65) · [Slide 66 · Anthrax toxin cell entry](lecture3-化学与战争毒物药剂.html#s66) · [Slide 67 · Health effects of anthrax toxin](lecture3-化学与战争毒物药剂.html#s67)
 
 ## 试题8
 
@@ -227,5 +227,5 @@ What is the toxic molecule responsible for the toxicity of Agent Orange used dur
 
 相关：课程索引 · [quiz1](quiz1.md) · [quiz2](quiz2.md) · [quiz4](quiz4.md) · [quiz5](quiz5.md)
 >
-> 🔗 **课件定位**：[L3 · Slide 76 · Agent orange during the Vietnam War](lecture3.md)
+> 🔗 **课件定位**：[L3 · Slide 76 · Agent orange during the Vietnam War](lecture3-化学与战争毒物药剂.html#s76)
 
